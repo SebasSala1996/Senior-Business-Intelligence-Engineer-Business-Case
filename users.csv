@@ -1,1001 +1,1001 @@
-User_ID,First_Name,Last_Name,Name,Paid_User,Churn
-1,Henri,Petit,Henri Petit,0,1
-2,Noah,Davies,Noah Davies,0,0
-3,Oliver,Brown,Oliver Brown,0,0
-4,Oscar,Brown,Oscar Brown,1,0
-5,Muhammad,Smith,Muhammad Smith,0,0
-6,Hans,Meyer,Hans Meyer,0,0
-7,Klaus,Hoffmann,Klaus Hoffmann,1,0
-8,Joseph,Williams,Joseph Williams,1,0
-9,Oliver,Evans,Oliver Evans,0,0
-10,Jean,Thomas,Jean Thomas,1,0
-11,Philippe,Martin,Philippe Martin,0,0
-12,Alain,Leroy,Alain Leroy,1,0
-13,Robert,Smith,Robert Smith,0,0
-14,James,Taylor,James Taylor,1,1
-15,Luc,Moreau,Luc Moreau,1,1
-16,Jacques,Moreau,Jacques Moreau,1,0
-17,Fritz,Schneider,Fritz Schneider,1,0
-18,Jacques,Martin,Jacques Martin,1,0
-19,William,Brown,William Brown,0,0
-20,Uwe,Meyer,Uwe Meyer,0,0
-21,Uwe,Schulz,Uwe Schulz,1,0
-22,Jack,Smith,Jack Smith,0,0
-23,Muhammad,Davies,Muhammad Davies,0,0
-24,Robert,Taylor,Robert Taylor,1,1
-25,William,Johnson,William Johnson,1,0
-26,Jurgen,Schneider,Jurgen Schneider,1,1
-27,Werner,Weber,Werner Weber,1,0
-28,Oliver,Wilson,Oliver Wilson,1,0
-29,Henri,Durand,Henri Durand,1,0
-30,Oliver,Roberts,Oliver Roberts,0,0
-31,Joseph,Williams,Joseph Williams,0,0
-32,George,Wilson,George Wilson,0,0
-33,Jack,Smith,Jack Smith,1,1
-34,Wolfgang,Schneider,Wolfgang Schneider,1,1
-35,Andre,Moreau,Andre Moreau,1,0
-36,Andre,Robert,Andre Robert,0,0
-37,Oscar,Jones,Oscar Jones,1,0
-38,Andre,Moreau,Andre Moreau,0,0
-39,Charles,Miller,Charles Miller,0,0
-40,Charles,Johnson,Charles Johnson,0,0
-41,Hans,Becker,Hans Becker,0,0
-42,Gunter,Schulz,Gunter Schulz,1,0
-43,Luc,Leroy,Luc Leroy,0,0
-44,Michel,Leroy,Michel Leroy,0,0
-45,Michel,Martin,Michel Martin,1,0
-46,Robert,Davis,Robert Davis,1,0
-47,Heinz,Meyer,Heinz Meyer,0,0
-48,Oscar,Williams,Oscar Williams,0,0
-49,Werner,Becker,Werner Becker,0,0
-50,Fritz,Fischer,Fritz Fischer,0,0
-51,Oscar,Evans,Oscar Evans,0,0
-52,Oliver,Roberts,Oliver Roberts,0,0
-53,Michael,Brown,Michael Brown,1,0
-54,Robert,Johnson,Robert Johnson,0,0
-55,George,Brown,George Brown,1,0
-56,Wolfgang,Fischer,Wolfgang Fischer,0,0
-57,Luc,Martin,Luc Martin,1,1
-58,Thomas,Jones,Thomas Jones,0,1
-59,Klaus,Weber,Klaus Weber,1,0
-60,Michel,Robert,Michel Robert,1,0
-61,Richard,Brown,Richard Brown,0,0
-62,Pierre,Petit,Pierre Petit,0,0
-63,John,Davis,John Davis,0,0
-64,Jacob,Smith,Jacob Smith,1,0
-65,Wolfgang,Schneider,Wolfgang Schneider,0,0
-66,Philippe,Robert,Philippe Robert,0,0
-67,Gunter,Hoffmann,Gunter Hoffmann,0,0
-68,Peter,Schmidt,Peter Schmidt,0,0
-69,Jurgen,Weber,Jurgen Weber,0,0
-70,Michel,Thomas,Michel Thomas,1,0
-71,Jacob,Thomas,Jacob Thomas,0,0
-72,Muhammad,Smith,Muhammad Smith,1,0
-73,George,Thomas,George Thomas,0,0
-74,Jacques,Bernard,Jacques Bernard,0,0
-75,Jurgen,Hoffmann,Jurgen Hoffmann,1,0
-76,Luc,Martin,Luc Martin,1,0
-77,Jean,Bernard,Jean Bernard,1,1
-78,Thomas,Roberts,Thomas Roberts,0,0
-79,Joseph,Wilson,Joseph Wilson,0,0
-80,Fritz,Muller,Fritz Muller,0,0
-81,Joseph,Wilson,Joseph Wilson,0,0
-82,Fritz,Muller,Fritz Muller,1,1
-83,Harry,Williams,Harry Williams,0,1
-84,John,Miller,John Miller,0,1
-85,William,Taylor,William Taylor,1,1
-86,James,Williams,James Williams,1,0
-87,Jean,Bernard,Jean Bernard,1,0
-88,Pierre,Thomas,Pierre Thomas,0,0
-89,Alain,Durand,Alain Durand,1,0
-90,Peter,Meyer,Peter Meyer,0,1
-91,Heinz,Muller,Heinz Muller,0,1
-92,Oliver,Evans,Oliver Evans,1,0
-93,Robert,Smith,Robert Smith,1,0
-94,Thomas,Taylor,Thomas Taylor,0,1
-95,David,Taylor,David Taylor,0,0
-96,Joseph,Taylor,Joseph Taylor,1,0
-97,Philippe,Martin,Philippe Martin,1,1
-98,Jack,Thomas,Jack Thomas,0,0
-99,George,Roberts,George Roberts,0,0
-100,Alain,Robert,Alain Robert,0,0
-101,Werner,Wagner,Werner Wagner,1,0
-102,Heinz,Hoffmann,Heinz Hoffmann,1,0
-103,Jacques,Bernard,Jacques Bernard,1,0
-104,Jurgen,Schmidt,Jurgen Schmidt,1,0
-105,Philippe,Richard,Philippe Richard,1,0
-106,Fritz,Fischer,Fritz Fischer,1,0
-107,Thomas,Davies,Thomas Davies,0,0
-108,Peter,Weber,Peter Weber,0,0
-109,Jacob,Davies,Jacob Davies,1,0
-110,Thomas,Taylor,Thomas Taylor,1,0
-111,Andre,Martin,Andre Martin,0,0
-112,David,Smith,David Smith,1,0
-113,Joseph,Johnson,Joseph Johnson,0,0
-114,Jean,Dubois,Jean Dubois,0,0
-115,James,Smith,James Smith,0,1
-116,Noah,Brown,Noah Brown,1,0
-117,William,Williams,William Williams,1,0
-118,Jacques,Leroy,Jacques Leroy,1,0
-119,Oliver,Jones,Oliver Jones,0,0
-120,Heinz,Weber,Heinz Weber,1,1
-121,Harry,Smith,Harry Smith,1,0
-122,Oliver,Jones,Oliver Jones,1,0
-123,Jacob,Thomas,Jacob Thomas,0,0
-124,Jurgen,Muller,Jurgen Muller,0,0
-125,Heinz,Muller,Heinz Muller,1,0
-126,Thomas,Taylor,Thomas Taylor,1,0
-127,Alain,Martin,Alain Martin,0,0
-128,Peter,Schmidt,Peter Schmidt,0,0
-129,Peter,Schmidt,Peter Schmidt,0,0
-130,Jacques,Richard,Jacques Richard,0,0
-131,Richard,Taylor,Richard Taylor,1,0
-132,Muhammad,Brown,Muhammad Brown,1,0
-133,Philippe,Leroy,Philippe Leroy,0,0
-134,Oscar,Wilson,Oscar Wilson,1,0
-135,Noah,Evans,Noah Evans,0,0
-136,David,Williams,David Williams,1,0
-137,James,Jones,James Jones,1,0
-138,Robert,Miller,Robert Miller,0,0
-139,William,Brown,William Brown,0,0
-140,William,Williams,William Williams,0,1
-141,Francois,Moreau,Francois Moreau,0,0
-142,David,Williams,David Williams,0,0
-143,Michel,Robert,Michel Robert,0,0
-144,Charlie,Brown,Charlie Brown,1,0
-145,George,Davies,George Davies,1,0
-146,Michel,Robert,Michel Robert,0,0
-147,William,Williams,William Williams,0,0
-148,Klaus,Schulz,Klaus Schulz,1,1
-149,Philippe,Robert,Philippe Robert,0,0
-150,Harry,Davies,Harry Davies,0,0
-151,Heinz,Becker,Heinz Becker,0,0
-152,Noah,Evans,Noah Evans,0,0
-153,Jurgen,Schmidt,Jurgen Schmidt,0,0
-154,Joseph,Taylor,Joseph Taylor,0,0
-155,Jean,Moreau,Jean Moreau,0,0
-156,Charlie,Roberts,Charlie Roberts,0,0
-157,Charles,Johnson,Charles Johnson,0,0
-158,John,Brown,John Brown,0,0
-159,James,Taylor,James Taylor,0,0
-160,James,Miller,James Miller,1,0
-161,Fritz,Weber,Fritz Weber,1,0
-162,Klaus,Fischer,Klaus Fischer,1,0
-163,Wolfgang,Schneider,Wolfgang Schneider,0,0
-164,Oscar,Wilson,Oscar Wilson,0,0
-165,Henri,Moreau,Henri Moreau,1,0
-166,Henri,Robert,Henri Robert,0,0
-167,Michael,Jones,Michael Jones,1,0
-168,Charles,Taylor,Charles Taylor,1,0
-169,James,Williams,James Williams,0,0
-170,Jack,Jones,Jack Jones,0,0
-171,Oscar,Smith,Oscar Smith,0,0
-172,Uwe,Hoffmann,Uwe Hoffmann,0,0
-173,George,Brown,George Brown,0,0
-174,Michel,Leroy,Michel Leroy,0,0
-175,Heinz,Schulz,Heinz Schulz,0,0
-176,Fritz,Weber,Fritz Weber,1,0
-177,Richard,Smith,Richard Smith,1,0
-178,Francois,Martin,Francois Martin,0,0
-179,Pierre,Thomas,Pierre Thomas,0,0
-180,Wolfgang,Schneider,Wolfgang Schneider,1,0
-181,Alain,Durand,Alain Durand,1,0
-182,Muhammad,Roberts,Muhammad Roberts,1,0
-183,Charlie,Brown,Charlie Brown,1,0
-184,Uwe,Schulz,Uwe Schulz,0,0
-185,Robert,Taylor,Robert Taylor,0,0
-186,James,Moore,James Moore,1,0
-187,John,Davis,John Davis,0,0
-188,Pierre,Martin,Pierre Martin,0,0
-189,Uwe,Becker,Uwe Becker,1,0
-190,David,Smith,David Smith,0,0
-191,Fritz,Schneider,Fritz Schneider,0,0
-192,Jurgen,Schulz,Jurgen Schulz,0,0
-193,Thomas,Jones,Thomas Jones,0,0
-194,Jean,Moreau,Jean Moreau,1,1
-195,Oliver,Thomas,Oliver Thomas,0,0
-196,Muhammad,Jones,Muhammad Jones,0,1
-197,Klaus,Schmidt,Klaus Schmidt,0,0
-198,Charlie,Williams,Charlie Williams,0,0
-199,Michel,Petit,Michel Petit,0,0
-200,George,Jones,George Jones,1,0
-201,Oscar,Jones,Oscar Jones,1,0
-202,Heinz,Schmidt,Heinz Schmidt,0,0
-203,Muhammad,Thomas,Muhammad Thomas,1,1
-204,Philippe,Moreau,Philippe Moreau,0,0
-205,Michael,Brown,Michael Brown,0,0
-206,Francois,Thomas,Francois Thomas,0,0
-207,Noah,Davies,Noah Davies,1,1
-208,Fritz,Schulz,Fritz Schulz,1,0
-209,Richard,Moore,Richard Moore,1,0
-210,Uwe,Becker,Uwe Becker,0,0
-211,Robert,Wilson,Robert Wilson,0,0
-212,Klaus,Schneider,Klaus Schneider,0,0
-213,Luc,Robert,Luc Robert,1,0
-214,David,Moore,David Moore,0,0
-215,Thomas,Davies,Thomas Davies,1,0
-216,Gunter,Becker,Gunter Becker,0,0
-217,Thomas,Davies,Thomas Davies,0,0
-218,Jean,Petit,Jean Petit,0,0
-219,Jean,Richard,Jean Richard,0,0
-220,William,Miller,William Miller,0,0
-221,Charlie,Evans,Charlie Evans,1,0
-222,Jack,Brown,Jack Brown,0,0
-223,Thomas,Evans,Thomas Evans,0,0
-224,Fritz,Muller,Fritz Muller,0,0
-225,Charlie,Davies,Charlie Davies,0,0
-226,Jacob,Thomas,Jacob Thomas,0,1
-227,Fritz,Wagner,Fritz Wagner,0,0
-228,Francois,Moreau,Francois Moreau,1,0
-229,Harry,Jones,Harry Jones,0,0
-230,Oscar,Smith,Oscar Smith,0,0
-231,Peter,Wagner,Peter Wagner,0,0
-232,John,Moore,John Moore,1,1
-233,Jacques,Richard,Jacques Richard,0,0
-234,John,Miller,John Miller,1,0
-235,Pierre,Thomas,Pierre Thomas,1,0
-236,David,Wilson,David Wilson,0,0
-237,Jurgen,Muller,Jurgen Muller,0,0
-238,Philippe,Moreau,Philippe Moreau,1,0
-239,Jacob,Williams,Jacob Williams,0,0
-240,Philippe,Richard,Philippe Richard,1,0
-241,Noah,Jones,Noah Jones,0,0
-242,Richard,Williams,Richard Williams,0,0
-243,Charlie,Brown,Charlie Brown,1,0
-244,Pierre,Leroy,Pierre Leroy,1,0
-245,Robert,Miller,Robert Miller,1,0
-246,Pierre,Martin,Pierre Martin,0,0
-247,Joseph,Jones,Joseph Jones,0,0
-248,Pierre,Martin,Pierre Martin,1,0
-249,Oscar,Thomas,Oscar Thomas,0,0
-250,Uwe,Hoffmann,Uwe Hoffmann,0,0
-251,Oscar,Taylor,Oscar Taylor,1,0
-252,David,Miller,David Miller,0,0
-253,Francois,Dubois,Francois Dubois,0,0
-254,Wolfgang,Wagner,Wolfgang Wagner,0,0
-255,George,Brown,George Brown,1,0
-256,Wolfgang,Schulz,Wolfgang Schulz,0,0
-257,Jacob,Jones,Jacob Jones,1,0
-258,Uwe,Muller,Uwe Muller,0,1
-259,Charles,Smith,Charles Smith,0,0
-260,Heinz,Weber,Heinz Weber,1,0
-261,Klaus,Becker,Klaus Becker,1,0
-262,Jack,Wilson,Jack Wilson,0,0
-263,Jacob,Davies,Jacob Davies,1,0
-264,Wolfgang,Schmidt,Wolfgang Schmidt,1,0
-265,Wolfgang,Meyer,Wolfgang Meyer,1,0
-266,Jean,Richard,Jean Richard,0,1
-267,Henri,Moreau,Henri Moreau,0,0
-268,Thomas,Taylor,Thomas Taylor,0,0
-269,Pierre,Moreau,Pierre Moreau,0,0
-270,Francois,Petit,Francois Petit,0,0
-271,Pierre,Dubois,Pierre Dubois,0,0
-272,Oscar,Smith,Oscar Smith,1,0
-273,Robert,Taylor,Robert Taylor,0,0
-274,Andre,Thomas,Andre Thomas,0,0
-275,Jacob,Wilson,Jacob Wilson,0,0
-276,Muhammad,Jones,Muhammad Jones,0,0
-277,Noah,Roberts,Noah Roberts,1,0
-278,Philippe,Moreau,Philippe Moreau,0,1
-279,Henri,Martin,Henri Martin,1,0
-280,Richard,Moore,Richard Moore,0,0
-281,Oscar,Davies,Oscar Davies,1,0
-282,Francois,Petit,Francois Petit,1,0
-283,Alain,Martin,Alain Martin,1,0
-284,Richard,Brown,Richard Brown,0,0
-285,Henri,Durand,Henri Durand,0,0
-286,Heinz,Schneider,Heinz Schneider,0,0
-287,Jurgen,Schneider,Jurgen Schneider,0,0
-288,Jacques,Thomas,Jacques Thomas,1,0
-289,Muhammad,Wilson,Muhammad Wilson,1,0
-290,Thomas,Davis,Thomas Davis,0,0
-291,George,Smith,George Smith,1,0
-292,William,Williams,William Williams,0,0
-293,Michael,Miller,Michael Miller,0,0
-294,George,Wilson,George Wilson,1,0
-295,Gunter,Becker,Gunter Becker,1,0
-296,George,Davies,George Davies,1,0
-297,Wolfgang,Meyer,Wolfgang Meyer,1,1
-298,Noah,Smith,Noah Smith,0,0
-299,Luc,Robert,Luc Robert,0,0
-300,Klaus,Becker,Klaus Becker,0,0
-301,Werner,Becker,Werner Becker,0,1
-302,Philippe,Martin,Philippe Martin,0,0
-303,Jurgen,Schmidt,Jurgen Schmidt,0,0
-304,Joseph,Miller,Joseph Miller,1,0
-305,Peter,Wagner,Peter Wagner,1,0
-306,John,Davis,John Davis,1,0
-307,Philippe,Thomas,Philippe Thomas,1,0
-308,Gunter,Muller,Gunter Muller,0,0
-309,Michel,Martin,Michel Martin,0,0
-310,Oscar,Taylor,Oscar Taylor,0,0
-311,Pierre,Petit,Pierre Petit,0,0
-312,Richard,Williams,Richard Williams,1,0
-313,Richard,Taylor,Richard Taylor,1,0
-314,Oliver,Wilson,Oliver Wilson,0,0
-315,Werner,Muller,Werner Muller,0,0
-316,David,Brown,David Brown,1,0
-317,Michael,Jones,Michael Jones,0,0
-318,Jean,Thomas,Jean Thomas,0,1
-319,Andre,Thomas,Andre Thomas,1,0
-320,Philippe,Petit,Philippe Petit,1,0
-321,Oscar,Taylor,Oscar Taylor,1,0
-322,William,Johnson,William Johnson,1,1
-323,Thomas,Smith,Thomas Smith,1,0
-324,William,Jones,William Jones,1,1
-325,Muhammad,Davies,Muhammad Davies,1,1
-326,David,Smith,David Smith,0,0
-327,James,Wilson,James Wilson,0,0
-328,Jacques,Durand,Jacques Durand,1,0
-329,Robert,Moore,Robert Moore,1,0
-330,Michel,Richard,Michel Richard,1,0
-331,Oscar,Smith,Oscar Smith,1,1
-332,John,Wilson,John Wilson,0,0
-333,Alain,Richard,Alain Richard,0,0
-334,Henri,Bernard,Henri Bernard,1,0
-335,Jacques,Robert,Jacques Robert,1,0
-336,Alain,Leroy,Alain Leroy,1,0
-337,William,Wilson,William Wilson,0,0
-338,Thomas,Davis,Thomas Davis,0,0
-339,Thomas,Smith,Thomas Smith,0,0
-340,Jurgen,Muller,Jurgen Muller,1,0
-341,Luc,Durand,Luc Durand,1,0
-342,Jean,Martin,Jean Martin,0,0
-343,Pierre,Thomas,Pierre Thomas,0,1
-344,Peter,Hoffmann,Peter Hoffmann,0,0
-345,Alain,Richard,Alain Richard,1,0
-346,Andre,Petit,Andre Petit,0,1
-347,Jurgen,Schmidt,Jurgen Schmidt,0,0
-348,George,Evans,George Evans,0,0
-349,Jurgen,Schmidt,Jurgen Schmidt,1,0
-350,William,Moore,William Moore,1,0
-351,Jacob,Brown,Jacob Brown,1,0
-352,Francois,Dubois,Francois Dubois,1,0
-353,Alain,Richard,Alain Richard,0,0
-354,Thomas,Williams,Thomas Williams,1,0
-355,George,Smith,George Smith,0,0
-356,Muhammad,Brown,Muhammad Brown,0,1
-357,Gunter,Schneider,Gunter Schneider,0,0
-358,William,Johnson,William Johnson,1,0
-359,Thomas,Davis,Thomas Davis,0,0
-360,Oliver,Roberts,Oliver Roberts,0,0
-361,Hans,Schulz,Hans Schulz,0,0
-362,Peter,Meyer,Peter Meyer,0,0
-363,John,Davis,John Davis,0,0
-364,Wolfgang,Weber,Wolfgang Weber,0,0
-365,William,Wilson,William Wilson,0,1
-366,James,Williams,James Williams,1,0
-367,Jean,Dubois,Jean Dubois,1,0
-368,Muhammad,Brown,Muhammad Brown,0,0
-369,Jack,Jones,Jack Jones,1,0
-370,George,Wilson,George Wilson,1,0
-371,Jean,Richard,Jean Richard,1,0
-372,Pierre,Durand,Pierre Durand,0,1
-373,Gunter,Schmidt,Gunter Schmidt,0,0
-374,Jacob,Williams,Jacob Williams,1,1
-375,Robert,Jones,Robert Jones,0,0
-376,William,Johnson,William Johnson,0,1
-377,Charles,Davis,Charles Davis,0,1
-378,William,Williams,William Williams,0,0
-379,Jurgen,Schmidt,Jurgen Schmidt,0,1
-380,Michael,Jones,Michael Jones,0,1
-381,Thomas,Smith,Thomas Smith,1,0
-382,George,Jones,George Jones,0,0
-383,Jean,Bernard,Jean Bernard,0,0
-384,Richard,Miller,Richard Miller,1,0
-385,Joseph,Moore,Joseph Moore,0,0
-386,Jack,Williams,Jack Williams,1,0
-387,Harry,Taylor,Harry Taylor,0,0
-388,Jack,Jones,Jack Jones,0,0
-389,Thomas,Wilson,Thomas Wilson,1,0
-390,Thomas,Jones,Thomas Jones,1,1
-391,Gunter,Schulz,Gunter Schulz,1,0
-392,Noah,Wilson,Noah Wilson,0,0
-393,Joseph,Williams,Joseph Williams,0,1
-394,Robert,Jones,Robert Jones,0,0
-395,Jacques,Moreau,Jacques Moreau,1,0
-396,Henri,Leroy,Henri Leroy,0,0
-397,George,Brown,George Brown,1,0
-398,Henri,Robert,Henri Robert,0,0
-399,Richard,Johnson,Richard Johnson,0,0
-400,Heinz,Wagner,Heinz Wagner,0,0
-401,Robert,Brown,Robert Brown,1,0
-402,Harry,Smith,Harry Smith,1,0
-403,Fritz,Wagner,Fritz Wagner,1,0
-404,Michael,Miller,Michael Miller,1,0
-405,Jacques,Thomas,Jacques Thomas,1,0
-406,Robert,Taylor,Robert Taylor,0,0
-407,Harry,Taylor,Harry Taylor,0,0
-408,Harry,Thomas,Harry Thomas,0,0
-409,Werner,Wagner,Werner Wagner,0,0
-410,William,Johnson,William Johnson,0,1
-411,Charles,Davis,Charles Davis,0,0
-412,Michael,Moore,Michael Moore,1,0
-413,Michael,Jones,Michael Jones,1,1
-414,Klaus,Meyer,Klaus Meyer,0,0
-415,Andre,Petit,Andre Petit,1,0
-416,Jack,Brown,Jack Brown,0,0
-417,Michel,Durand,Michel Durand,1,0
-418,Gunter,Schmidt,Gunter Schmidt,1,0
-419,Thomas,Thomas,Thomas Thomas,0,0
-420,David,Taylor,David Taylor,1,0
-421,Richard,Williams,Richard Williams,1,0
-422,James,Brown,James Brown,1,0
-423,George,Brown,George Brown,1,0
-424,Robert,Williams,Robert Williams,0,0
-425,William,Davis,William Davis,0,0
-426,Jean,Petit,Jean Petit,0,0
-427,Noah,Williams,Noah Williams,1,1
-428,Luc,Martin,Luc Martin,0,0
-429,Andre,Richard,Andre Richard,0,0
-430,Jacques,Robert,Jacques Robert,1,0
-431,Muhammad,Davies,Muhammad Davies,1,1
-432,Robert,Taylor,Robert Taylor,1,0
-433,Hans,Wagner,Hans Wagner,1,1
-434,Klaus,Schneider,Klaus Schneider,0,1
-435,George,Smith,George Smith,1,0
-436,Richard,Taylor,Richard Taylor,1,0
-437,Noah,Jones,Noah Jones,0,0
-438,Jurgen,Schmidt,Jurgen Schmidt,1,0
-439,Harry,Davies,Harry Davies,0,0
-440,Thomas,Miller,Thomas Miller,0,0
-441,Andre,Robert,Andre Robert,0,0
-442,Jack,Taylor,Jack Taylor,0,0
-443,Harry,Smith,Harry Smith,1,0
-444,David,Taylor,David Taylor,0,0
-445,Fritz,Muller,Fritz Muller,1,0
-446,Muhammad,Brown,Muhammad Brown,1,1
-447,Jean,Petit,Jean Petit,0,1
-448,Andre,Richard,Andre Richard,0,0
-449,Richard,Smith,Richard Smith,0,0
-450,James,Jones,James Jones,0,0
-451,Philippe,Dubois,Philippe Dubois,1,0
-452,Pierre,Robert,Pierre Robert,1,0
-453,Fritz,Schneider,Fritz Schneider,1,0
-454,Jack,Roberts,Jack Roberts,1,0
-455,Thomas,Taylor,Thomas Taylor,0,0
-456,Michael,Miller,Michael Miller,1,0
-457,Heinz,Schulz,Heinz Schulz,0,0
-458,Henri,Durand,Henri Durand,1,0
-459,Noah,Williams,Noah Williams,1,0
-460,David,Miller,David Miller,0,0
-461,David,Brown,David Brown,0,0
-462,David,Davis,David Davis,1,0
-463,Jurgen,Weber,Jurgen Weber,0,0
-464,Jacob,Taylor,Jacob Taylor,0,1
-465,Wolfgang,Wagner,Wolfgang Wagner,0,0
-466,Richard,Moore,Richard Moore,0,0
-467,George,Evans,George Evans,0,1
-468,Jean,Richard,Jean Richard,1,0
-469,Andre,Durand,Andre Durand,1,0
-470,Peter,Schulz,Peter Schulz,0,0
-471,Werner,Hoffmann,Werner Hoffmann,1,0
-472,Klaus,Muller,Klaus Muller,0,1
-473,David,Davis,David Davis,0,0
-474,John,Brown,John Brown,0,0
-475,David,Taylor,David Taylor,0,0
-476,Harry,Brown,Harry Brown,1,0
-477,Muhammad,Thomas,Muhammad Thomas,1,0
-478,Harry,Jones,Harry Jones,1,0
-479,Gunter,Wagner,Gunter Wagner,1,0
-480,Noah,Taylor,Noah Taylor,0,0
-481,James,Miller,James Miller,0,0
-482,Oscar,Williams,Oscar Williams,1,0
-483,David,Moore,David Moore,0,0
-484,Jurgen,Schmidt,Jurgen Schmidt,0,0
-485,Noah,Brown,Noah Brown,0,0
-486,Joseph,Moore,Joseph Moore,0,0
-487,Thomas,Taylor,Thomas Taylor,1,0
-488,Charlie,Evans,Charlie Evans,1,0
-489,Wolfgang,Muller,Wolfgang Muller,1,0
-490,Jack,Wilson,Jack Wilson,0,0
-491,Harry,Taylor,Harry Taylor,1,0
-492,Muhammad,Williams,Muhammad Williams,0,0
-493,Jurgen,Schulz,Jurgen Schulz,1,0
-494,Jacob,Smith,Jacob Smith,1,0
-495,Henri,Martin,Henri Martin,1,0
-496,Richard,Wilson,Richard Wilson,0,0
-497,Werner,Muller,Werner Muller,1,0
-498,Muhammad,Thomas,Muhammad Thomas,0,0
-499,Jack,Davies,Jack Davies,1,0
-500,Harry,Evans,Harry Evans,0,0
-501,Fritz,Schmidt,Fritz Schmidt,1,0
-502,Werner,Wagner,Werner Wagner,0,0
-503,Charles,Williams,Charles Williams,0,0
-504,Richard,Miller,Richard Miller,1,0
-505,Peter,Hoffmann,Peter Hoffmann,0,0
-506,Muhammad,Smith,Muhammad Smith,0,0
-507,Thomas,Taylor,Thomas Taylor,1,0
-508,James,Moore,James Moore,1,0
-509,Noah,Evans,Noah Evans,1,0
-510,Gunter,Meyer,Gunter Meyer,0,0
-511,Philippe,Robert,Philippe Robert,1,0
-512,Joseph,Jones,Joseph Jones,1,0
-513,James,Smith,James Smith,1,1
-514,Harry,Wilson,Harry Wilson,1,1
-515,Charlie,Evans,Charlie Evans,0,0
-516,Thomas,Smith,Thomas Smith,0,0
-517,Werner,Schulz,Werner Schulz,0,1
-518,Klaus,Schulz,Klaus Schulz,0,0
-519,Noah,Williams,Noah Williams,1,0
-520,Klaus,Weber,Klaus Weber,0,0
-521,William,Williams,William Williams,0,0
-522,Robert,Williams,Robert Williams,1,0
-523,Michel,Petit,Michel Petit,1,0
-524,Francois,Leroy,Francois Leroy,1,0
-525,Werner,Weber,Werner Weber,0,0
-526,David,Williams,David Williams,1,0
-527,Charlie,Evans,Charlie Evans,0,1
-528,Harry,Smith,Harry Smith,0,0
-529,John,Williams,John Williams,0,1
-530,Charlie,Roberts,Charlie Roberts,1,0
-531,Thomas,Thomas,Thomas Thomas,1,1
-532,Francois,Moreau,Francois Moreau,0,0
-533,John,Davis,John Davis,1,1
-534,Wolfgang,Schneider,Wolfgang Schneider,1,0
-535,Charles,Davis,Charles Davis,1,0
-536,David,Taylor,David Taylor,1,0
-537,Jacques,Martin,Jacques Martin,0,0
-538,Alain,Robert,Alain Robert,0,1
-539,Gunter,Schmidt,Gunter Schmidt,1,1
-540,Richard,Williams,Richard Williams,1,0
-541,Heinz,Schulz,Heinz Schulz,0,0
-542,George,Williams,George Williams,1,0
-543,Jack,Brown,Jack Brown,0,0
-544,Oscar,Smith,Oscar Smith,0,0
-545,Robert,Jones,Robert Jones,0,0
-546,Jacob,Taylor,Jacob Taylor,0,1
-547,Uwe,Wagner,Uwe Wagner,0,0
-548,Noah,Evans,Noah Evans,1,0
-549,Joseph,Williams,Joseph Williams,1,0
-550,Philippe,Leroy,Philippe Leroy,1,0
-551,James,Wilson,James Wilson,0,0
-552,Fritz,Hoffmann,Fritz Hoffmann,0,0
-553,Uwe,Meyer,Uwe Meyer,0,0
-554,Pierre,Moreau,Pierre Moreau,0,0
-555,Charlie,Jones,Charlie Jones,0,1
-556,Joseph,Miller,Joseph Miller,0,0
-557,Jacques,Dubois,Jacques Dubois,1,0
-558,John,Jones,John Jones,0,0
-559,Werner,Schneider,Werner Schneider,1,0
-560,James,Moore,James Moore,1,0
-561,Michel,Durand,Michel Durand,0,1
-562,Jurgen,Schneider,Jurgen Schneider,0,0
-563,Charles,Johnson,Charles Johnson,0,0
-564,Francois,Moreau,Francois Moreau,1,1
-565,Jack,Jones,Jack Jones,0,0
-566,Thomas,Smith,Thomas Smith,0,1
-567,Michel,Leroy,Michel Leroy,0,0
-568,Jack,Thomas,Jack Thomas,1,0
-569,Thomas,Davis,Thomas Davis,0,0
-570,Andre,Durand,Andre Durand,0,0
-571,Joseph,Taylor,Joseph Taylor,0,0
-572,Wolfgang,Fischer,Wolfgang Fischer,1,0
-573,Philippe,Dubois,Philippe Dubois,1,0
-574,Fritz,Meyer,Fritz Meyer,1,0
-575,Michael,Smith,Michael Smith,0,0
-576,Fritz,Wagner,Fritz Wagner,0,0
-577,Andre,Bernard,Andre Bernard,0,0
-578,Noah,Jones,Noah Jones,0,1
-579,Jacob,Smith,Jacob Smith,0,0
-580,Muhammad,Brown,Muhammad Brown,1,0
-581,Jean,Moreau,Jean Moreau,0,1
-582,Philippe,Martin,Philippe Martin,0,0
-583,Hans,Fischer,Hans Fischer,1,0
-584,Klaus,Schneider,Klaus Schneider,0,0
-585,George,Taylor,George Taylor,1,0
-586,Fritz,Schmidt,Fritz Schmidt,0,0
-587,John,Brown,John Brown,1,0
-588,Thomas,Wilson,Thomas Wilson,1,1
-589,William,Moore,William Moore,1,0
-590,Klaus,Wagner,Klaus Wagner,0,0
-591,Klaus,Weber,Klaus Weber,1,0
-592,Jack,Jones,Jack Jones,1,1
-593,Jacob,Taylor,Jacob Taylor,1,1
-594,David,Jones,David Jones,0,0
-595,Werner,Fischer,Werner Fischer,0,0
-596,Alain,Petit,Alain Petit,0,0
-597,Fritz,Meyer,Fritz Meyer,1,0
-598,David,Brown,David Brown,1,1
-599,Gunter,Meyer,Gunter Meyer,0,1
-600,David,Johnson,David Johnson,0,0
-601,Noah,Evans,Noah Evans,0,0
-602,Henri,Petit,Henri Petit,0,1
-603,Luc,Petit,Luc Petit,0,1
-604,Charles,Davis,Charles Davis,0,0
-605,Pierre,Martin,Pierre Martin,0,0
-606,Noah,Roberts,Noah Roberts,0,1
-607,Luc,Dubois,Luc Dubois,0,1
-608,Fritz,Hoffmann,Fritz Hoffmann,0,0
-609,Noah,Thomas,Noah Thomas,0,0
-610,Alain,Moreau,Alain Moreau,0,1
-611,Richard,Taylor,Richard Taylor,0,0
-612,Klaus,Schmidt,Klaus Schmidt,1,0
-613,James,Wilson,James Wilson,1,1
-614,Michel,Bernard,Michel Bernard,0,1
-615,Jacques,Leroy,Jacques Leroy,0,0
-616,William,Miller,William Miller,0,0
-617,Pierre,Robert,Pierre Robert,1,0
-618,Thomas,Miller,Thomas Miller,0,0
-619,Jurgen,Schulz,Jurgen Schulz,0,0
-620,Alain,Moreau,Alain Moreau,0,0
-621,Klaus,Fischer,Klaus Fischer,1,0
-622,Charles,Jones,Charles Jones,0,0
-623,Michel,Thomas,Michel Thomas,0,1
-624,George,Roberts,George Roberts,1,0
-625,Jack,Thomas,Jack Thomas,0,0
-626,Alain,Dubois,Alain Dubois,1,0
-627,Joseph,Williams,Joseph Williams,1,0
-628,Muhammad,Thomas,Muhammad Thomas,1,0
-629,George,Roberts,George Roberts,0,0
-630,Uwe,Hoffmann,Uwe Hoffmann,1,0
-631,Klaus,Schmidt,Klaus Schmidt,1,0
-632,Harry,Thomas,Harry Thomas,1,0
-633,Fritz,Becker,Fritz Becker,1,0
-634,Alain,Durand,Alain Durand,1,0
-635,Jurgen,Muller,Jurgen Muller,0,0
-636,David,Brown,David Brown,0,1
-637,George,Taylor,George Taylor,0,0
-638,Gunter,Meyer,Gunter Meyer,1,0
-639,Klaus,Wagner,Klaus Wagner,1,1
-640,Fritz,Meyer,Fritz Meyer,1,0
-641,Philippe,Durand,Philippe Durand,0,0
-642,Jacob,Roberts,Jacob Roberts,1,0
-643,Philippe,Bernard,Philippe Bernard,0,0
-644,Thomas,Taylor,Thomas Taylor,1,1
-645,William,Wilson,William Wilson,0,0
-646,Philippe,Petit,Philippe Petit,1,0
-647,James,Taylor,James Taylor,1,0
-648,Oscar,Thomas,Oscar Thomas,1,0
-649,Joseph,Jones,Joseph Jones,0,0
-650,Oscar,Williams,Oscar Williams,1,0
-651,Charles,Brown,Charles Brown,0,0
-652,Luc,Leroy,Luc Leroy,0,0
-653,Jacques,Robert,Jacques Robert,1,0
-654,Michel,Moreau,Michel Moreau,0,0
-655,Luc,Martin,Luc Martin,0,0
-656,Philippe,Robert,Philippe Robert,1,0
-657,John,Moore,John Moore,0,1
-658,Jurgen,Schmidt,Jurgen Schmidt,1,0
-659,Jurgen,Wagner,Jurgen Wagner,1,0
-660,Pierre,Martin,Pierre Martin,0,1
-661,Andre,Petit,Andre Petit,0,0
-662,Henri,Petit,Henri Petit,0,0
-663,George,Evans,George Evans,1,0
-664,James,Johnson,James Johnson,0,0
-665,Uwe,Hoffmann,Uwe Hoffmann,1,0
-666,Pierre,Moreau,Pierre Moreau,1,1
-667,Klaus,Schneider,Klaus Schneider,1,0
-668,Werner,Schulz,Werner Schulz,1,0
-669,Jack,Taylor,Jack Taylor,1,0
-670,Jacob,Davies,Jacob Davies,0,0
-671,Uwe,Meyer,Uwe Meyer,0,1
-672,Jurgen,Schneider,Jurgen Schneider,0,0
-673,Jurgen,Becker,Jurgen Becker,0,0
-674,Robert,Taylor,Robert Taylor,0,0
-675,Joseph,Miller,Joseph Miller,1,0
-676,Charles,Davis,Charles Davis,1,0
-677,David,Williams,David Williams,0,1
-678,Philippe,Durand,Philippe Durand,0,0
-679,Jacques,Thomas,Jacques Thomas,0,0
-680,Robert,Davis,Robert Davis,1,0
-681,Jurgen,Hoffmann,Jurgen Hoffmann,0,0
-682,Alain,Dubois,Alain Dubois,1,0
-683,Oliver,Brown,Oliver Brown,0,0
-684,Francois,Leroy,Francois Leroy,0,0
-685,George,Taylor,George Taylor,0,0
-686,Klaus,Muller,Klaus Muller,0,0
-687,Pierre,Richard,Pierre Richard,0,0
-688,Richard,Taylor,Richard Taylor,0,0
-689,Thomas,Taylor,Thomas Taylor,1,0
-690,David,Johnson,David Johnson,0,0
-691,John,Moore,John Moore,1,1
-692,Noah,Thomas,Noah Thomas,0,0
-693,Michel,Durand,Michel Durand,0,0
-694,Jean,Durand,Jean Durand,0,0
-695,Michel,Durand,Michel Durand,0,0
-696,Charles,Miller,Charles Miller,0,1
-697,Werner,Wagner,Werner Wagner,0,0
-698,Michael,Miller,Michael Miller,0,0
-699,Alain,Richard,Alain Richard,0,0
-700,Jack,Davies,Jack Davies,0,0
-701,Jack,Smith,Jack Smith,0,0
-702,Fritz,Schmidt,Fritz Schmidt,0,0
-703,Uwe,Wagner,Uwe Wagner,1,0
-704,Philippe,Robert,Philippe Robert,0,0
-705,Gunter,Schneider,Gunter Schneider,1,0
-706,Thomas,Miller,Thomas Miller,1,0
-707,Francois,Thomas,Francois Thomas,1,0
-708,Noah,Roberts,Noah Roberts,1,0
-709,Wolfgang,Schmidt,Wolfgang Schmidt,0,0
-710,Fritz,Schulz,Fritz Schulz,0,0
-711,Robert,Williams,Robert Williams,1,0
-712,Charlie,Roberts,Charlie Roberts,0,0
-713,Oliver,Roberts,Oliver Roberts,0,0
-714,George,Williams,George Williams,0,0
-715,Gunter,Schneider,Gunter Schneider,0,0
-716,Luc,Durand,Luc Durand,0,0
-717,Harry,Jones,Harry Jones,1,1
-718,Oliver,Thomas,Oliver Thomas,1,0
-719,Peter,Weber,Peter Weber,0,0
-720,Luc,Moreau,Luc Moreau,0,1
-721,Pierre,Thomas,Pierre Thomas,0,1
-722,Gunter,Schneider,Gunter Schneider,0,0
-723,Thomas,Johnson,Thomas Johnson,1,0
-724,Harry,Thomas,Harry Thomas,1,0
-725,Heinz,Schulz,Heinz Schulz,1,0
-726,Jacques,Martin,Jacques Martin,0,0
-727,Jack,Williams,Jack Williams,0,1
-728,Oscar,Williams,Oscar Williams,0,0
-729,Michael,Wilson,Michael Wilson,1,0
-730,Jacques,Moreau,Jacques Moreau,0,0
-731,James,Miller,James Miller,1,0
-732,Peter,Muller,Peter Muller,0,0
-733,Richard,Davis,Richard Davis,0,0
-734,George,Davies,George Davies,0,0
-735,Oliver,Williams,Oliver Williams,0,0
-736,Charlie,Roberts,Charlie Roberts,0,0
-737,Michel,Martin,Michel Martin,1,0
-738,James,Brown,James Brown,1,0
-739,Michel,Thomas,Michel Thomas,1,0
-740,Andre,Durand,Andre Durand,0,0
-741,John,Smith,John Smith,1,0
-742,William,Moore,William Moore,1,0
-743,Charlie,Davies,Charlie Davies,0,0
-744,Thomas,Smith,Thomas Smith,0,0
-745,Werner,Schmidt,Werner Schmidt,0,0
-746,Hans,Weber,Hans Weber,0,0
-747,Luc,Durand,Luc Durand,0,0
-748,Heinz,Schneider,Heinz Schneider,1,0
-749,Werner,Becker,Werner Becker,1,0
-750,Michael,Davis,Michael Davis,1,1
-751,Pierre,Dubois,Pierre Dubois,1,1
-752,Charlie,Davies,Charlie Davies,0,1
-753,Wolfgang,Wagner,Wolfgang Wagner,0,0
-754,Michael,Moore,Michael Moore,1,0
-755,Robert,Miller,Robert Miller,1,1
-756,Muhammad,Davies,Muhammad Davies,1,0
-757,Michael,Wilson,Michael Wilson,1,0
-758,Peter,Weber,Peter Weber,1,0
-759,Francois,Durand,Francois Durand,0,0
-760,Henri,Leroy,Henri Leroy,1,0
-761,Robert,Smith,Robert Smith,1,0
-762,Alain,Petit,Alain Petit,0,0
-763,Pierre,Leroy,Pierre Leroy,1,0
-764,Robert,Jones,Robert Jones,0,0
-765,Jurgen,Wagner,Jurgen Wagner,1,0
-766,Harry,Taylor,Harry Taylor,0,0
-767,John,Williams,John Williams,1,0
-768,Muhammad,Jones,Muhammad Jones,0,0
-769,Thomas,Thomas,Thomas Thomas,1,0
-770,Philippe,Leroy,Philippe Leroy,1,0
-771,Oliver,Davies,Oliver Davies,1,1
-772,John,Jones,John Jones,0,0
-773,Gunter,Muller,Gunter Muller,0,0
-774,Charles,Wilson,Charles Wilson,1,0
-775,Oscar,Jones,Oscar Jones,0,0
-776,Jean,Martin,Jean Martin,0,0
-777,Oscar,Wilson,Oscar Wilson,1,0
-778,Uwe,Weber,Uwe Weber,1,0
-779,Pierre,Moreau,Pierre Moreau,1,0
-780,Gunter,Schneider,Gunter Schneider,1,1
-781,William,Williams,William Williams,1,0
-782,Richard,Brown,Richard Brown,1,0
-783,Jack,Evans,Jack Evans,0,0
-784,Andre,Dubois,Andre Dubois,1,0
-785,Oscar,Roberts,Oscar Roberts,0,0
-786,Werner,Schneider,Werner Schneider,1,0
-787,Fritz,Schmidt,Fritz Schmidt,0,0
-788,John,Brown,John Brown,1,0
-789,Klaus,Becker,Klaus Becker,0,0
-790,Oscar,Smith,Oscar Smith,0,0
-791,Philippe,Dubois,Philippe Dubois,0,0
-792,Thomas,Wilson,Thomas Wilson,0,0
-793,Jack,Smith,Jack Smith,0,1
-794,Noah,Smith,Noah Smith,1,0
-795,Jacques,Durand,Jacques Durand,0,1
-796,Michael,Smith,Michael Smith,1,0
-797,Robert,Brown,Robert Brown,1,0
-798,Oliver,Brown,Oliver Brown,0,0
-799,Alain,Bernard,Alain Bernard,0,0
-800,Wolfgang,Schmidt,Wolfgang Schmidt,0,0
-801,Henri,Durand,Henri Durand,0,0
-802,Philippe,Richard,Philippe Richard,0,0
-803,Jurgen,Weber,Jurgen Weber,1,0
-804,George,Williams,George Williams,1,0
-805,Klaus,Wagner,Klaus Wagner,0,0
-806,Michael,Williams,Michael Williams,0,0
-807,Fritz,Wagner,Fritz Wagner,1,0
-808,Harry,Smith,Harry Smith,0,0
-809,Jacob,Williams,Jacob Williams,0,0
-810,Michel,Bernard,Michel Bernard,0,0
-811,Joseph,Smith,Joseph Smith,1,0
-812,Oliver,Wilson,Oliver Wilson,1,1
-813,Francois,Richard,Francois Richard,1,0
-814,Noah,Smith,Noah Smith,0,0
-815,William,Taylor,William Taylor,1,0
-816,Alain,Petit,Alain Petit,0,0
-817,Jacques,Richard,Jacques Richard,0,1
-818,Andre,Thomas,Andre Thomas,0,0
-819,Pierre,Leroy,Pierre Leroy,1,0
-820,Fritz,Schneider,Fritz Schneider,0,0
-821,Oscar,Roberts,Oscar Roberts,0,0
-822,Charlie,Williams,Charlie Williams,1,1
-823,Alain,Robert,Alain Robert,1,0
-824,Klaus,Meyer,Klaus Meyer,1,0
-825,William,Jones,William Jones,0,0
-826,Gunter,Weber,Gunter Weber,0,1
-827,Uwe,Wagner,Uwe Wagner,0,0
-828,Thomas,Johnson,Thomas Johnson,1,0
-829,Andre,Moreau,Andre Moreau,0,1
-830,Peter,Schulz,Peter Schulz,0,0
-831,Harry,Roberts,Harry Roberts,1,0
-832,Charles,Miller,Charles Miller,1,0
-833,Francois,Richard,Francois Richard,0,0
-834,Werner,Fischer,Werner Fischer,0,0
-835,Gunter,Schmidt,Gunter Schmidt,0,0
-836,Wolfgang,Weber,Wolfgang Weber,1,1
-837,Heinz,Muller,Heinz Muller,0,0
-838,Peter,Weber,Peter Weber,1,0
-839,Philippe,Durand,Philippe Durand,1,0
-840,Jack,Davies,Jack Davies,0,0
-841,Wolfgang,Fischer,Wolfgang Fischer,0,0
-842,Michel,Petit,Michel Petit,0,0
-843,Charlie,Thomas,Charlie Thomas,0,0
-844,Charlie,Wilson,Charlie Wilson,0,0
-845,Thomas,Jones,Thomas Jones,0,0
-846,Pierre,Thomas,Pierre Thomas,0,0
-847,Uwe,Muller,Uwe Muller,1,0
-848,John,Taylor,John Taylor,1,0
-849,John,Jones,John Jones,1,1
-850,Oscar,Thomas,Oscar Thomas,0,0
-851,Pierre,Thomas,Pierre Thomas,0,1
-852,Charles,Miller,Charles Miller,0,0
-853,Noah,Smith,Noah Smith,0,0
-854,Werner,Schulz,Werner Schulz,0,1
-855,Gunter,Schulz,Gunter Schulz,0,0
-856,Michael,Taylor,Michael Taylor,1,0
-857,William,Davis,William Davis,0,0
-858,Joseph,Taylor,Joseph Taylor,0,0
-859,Jacques,Martin,Jacques Martin,0,1
-860,Heinz,Muller,Heinz Muller,0,1
-861,Thomas,Wilson,Thomas Wilson,0,0
-862,Muhammad,Brown,Muhammad Brown,0,0
-863,David,Brown,David Brown,0,0
-864,John,Moore,John Moore,1,0
-865,Thomas,Williams,Thomas Williams,0,0
-866,Michel,Bernard,Michel Bernard,0,1
-867,Luc,Robert,Luc Robert,0,0
-868,Jacob,Brown,Jacob Brown,1,0
-869,Joseph,Taylor,Joseph Taylor,0,0
-870,Pierre,Thomas,Pierre Thomas,0,0
-871,Charles,Moore,Charles Moore,0,0
-872,Noah,Williams,Noah Williams,1,0
-873,Thomas,Brown,Thomas Brown,1,0
-874,Richard,Johnson,Richard Johnson,1,0
-875,Oscar,Williams,Oscar Williams,0,0
-876,Oliver,Evans,Oliver Evans,0,1
-877,Richard,Moore,Richard Moore,1,0
-878,Jurgen,Schulz,Jurgen Schulz,1,0
-879,Henri,Petit,Henri Petit,0,0
-880,James,Wilson,James Wilson,1,0
-881,Charles,Davis,Charles Davis,1,0
-882,Richard,Taylor,Richard Taylor,1,0
-883,Jack,Thomas,Jack Thomas,1,0
-884,Richard,Smith,Richard Smith,1,0
-885,Klaus,Meyer,Klaus Meyer,0,0
-886,Wolfgang,Hoffmann,Wolfgang Hoffmann,0,0
-887,Henri,Petit,Henri Petit,0,0
-888,Hans,Schneider,Hans Schneider,1,0
-889,Harry,Brown,Harry Brown,0,0
-890,George,Wilson,George Wilson,1,0
-891,Henri,Durand,Henri Durand,1,0
-892,Peter,Schmidt,Peter Schmidt,1,0
-893,Uwe,Weber,Uwe Weber,0,0
-894,Oscar,Evans,Oscar Evans,0,1
-895,James,Jones,James Jones,0,1
-896,George,Taylor,George Taylor,0,0
-897,Andre,Robert,Andre Robert,0,0
-898,Muhammad,Thomas,Muhammad Thomas,0,0
-899,James,Taylor,James Taylor,0,0
-900,Thomas,Williams,Thomas Williams,1,0
-901,Francois,Thomas,Francois Thomas,1,0
-902,David,Brown,David Brown,0,0
-903,Pierre,Dubois,Pierre Dubois,0,0
-904,Jurgen,Meyer,Jurgen Meyer,0,0
-905,Heinz,Muller,Heinz Muller,0,1
-906,John,Johnson,John Johnson,1,0
-907,Philippe,Martin,Philippe Martin,0,0
-908,Philippe,Robert,Philippe Robert,1,0
-909,Oliver,Evans,Oliver Evans,1,0
-910,James,Davis,James Davis,1,0
-911,Klaus,Muller,Klaus Muller,1,0
-912,Alain,Robert,Alain Robert,0,0
-913,Peter,Muller,Peter Muller,0,1
-914,Michael,Johnson,Michael Johnson,1,0
-915,Robert,Wilson,Robert Wilson,0,0
-916,Richard,Moore,Richard Moore,1,0
-917,Michel,Richard,Michel Richard,0,0
-918,Uwe,Schmidt,Uwe Schmidt,0,0
-919,Thomas,Thomas,Thomas Thomas,1,1
-920,Luc,Bernard,Luc Bernard,0,0
-921,Klaus,Schulz,Klaus Schulz,1,1
-922,Gunter,Weber,Gunter Weber,1,0
-923,Michel,Bernard,Michel Bernard,0,0
-924,Oscar,Smith,Oscar Smith,1,0
-925,Peter,Wagner,Peter Wagner,0,0
-926,Francois,Leroy,Francois Leroy,0,0
-927,David,Davis,David Davis,1,0
-928,Charlie,Taylor,Charlie Taylor,1,0
-929,Hans,Schulz,Hans Schulz,0,0
-930,Richard,Miller,Richard Miller,1,0
-931,Werner,Schneider,Werner Schneider,0,0
-932,Fritz,Weber,Fritz Weber,1,1
-933,Michel,Petit,Michel Petit,1,0
-934,Jean,Thomas,Jean Thomas,0,1
-935,Muhammad,Roberts,Muhammad Roberts,0,0
-936,Joseph,Moore,Joseph Moore,0,0
-937,Jack,Evans,Jack Evans,1,0
-938,Robert,Jones,Robert Jones,0,0
-939,Francois,Robert,Francois Robert,0,0
-940,Noah,Smith,Noah Smith,1,0
-941,Oliver,Brown,Oliver Brown,0,0
-942,Heinz,Wagner,Heinz Wagner,0,0
-943,Uwe,Weber,Uwe Weber,0,0
-944,Jacques,Martin,Jacques Martin,0,0
-945,Harry,Roberts,Harry Roberts,0,0
-946,Fritz,Schulz,Fritz Schulz,0,0
-947,Charlie,Davies,Charlie Davies,0,0
-948,Philippe,Robert,Philippe Robert,1,0
-949,Peter,Schulz,Peter Schulz,0,0
-950,Charles,Moore,Charles Moore,0,0
-951,Michel,Leroy,Michel Leroy,1,0
-952,Philippe,Martin,Philippe Martin,0,0
-953,Thomas,Wilson,Thomas Wilson,1,0
-954,Charlie,Brown,Charlie Brown,0,0
-955,Noah,Roberts,Noah Roberts,0,0
-956,Harry,Taylor,Harry Taylor,0,0
-957,Hans,Hoffmann,Hans Hoffmann,0,1
-958,Richard,Taylor,Richard Taylor,0,1
-959,Pierre,Durand,Pierre Durand,0,0
-960,Robert,Wilson,Robert Wilson,1,0
-961,Hans,Wagner,Hans Wagner,0,0
-962,Richard,Moore,Richard Moore,1,0
-963,Uwe,Schneider,Uwe Schneider,1,1
-964,Alain,Martin,Alain Martin,1,0
-965,Muhammad,Brown,Muhammad Brown,1,0
-966,Hans,Meyer,Hans Meyer,1,0
-967,Richard,Moore,Richard Moore,0,0
-968,Philippe,Dubois,Philippe Dubois,0,1
-969,Heinz,Becker,Heinz Becker,1,0
-970,Henri,Leroy,Henri Leroy,0,0
-971,Uwe,Wagner,Uwe Wagner,0,0
-972,Uwe,Weber,Uwe Weber,1,0
-973,George,Taylor,George Taylor,0,0
-974,Andre,Moreau,Andre Moreau,0,0
-975,Oscar,Brown,Oscar Brown,0,0
-976,Jacob,Thomas,Jacob Thomas,0,0
-977,Thomas,Wilson,Thomas Wilson,1,0
-978,Luc,Petit,Luc Petit,1,0
-979,Richard,Moore,Richard Moore,0,0
-980,George,Williams,George Williams,0,0
-981,Oliver,Roberts,Oliver Roberts,1,0
-982,Michel,Martin,Michel Martin,0,0
-983,Jacob,Davies,Jacob Davies,0,1
-984,Thomas,Wilson,Thomas Wilson,0,1
-985,Klaus,Wagner,Klaus Wagner,0,0
-986,Peter,Becker,Peter Becker,0,0
-987,Harry,Taylor,Harry Taylor,1,0
-988,Henri,Durand,Henri Durand,0,0
-989,William,Johnson,William Johnson,1,1
-990,Peter,Meyer,Peter Meyer,1,0
-991,Robert,Brown,Robert Brown,0,1
-992,Heinz,Weber,Heinz Weber,1,0
-993,William,Davis,William Davis,0,1
-994,Klaus,Schmidt,Klaus Schmidt,0,0
-995,Andre,Moreau,Andre Moreau,1,0
-996,William,Moore,William Moore,1,0
-997,Luc,Thomas,Luc Thomas,1,1
-998,Andre,Leroy,Andre Leroy,0,1
-999,Heinz,Muller,Heinz Muller,0,0
-1000,Andre,Durand,Andre Durand,0,0
+User_ID,First_Name,Last_Name,Name,Paid_User,Churn,Segment
+1,Andre,Leroy,Andre Leroy,0,0,New User
+2,Charles,Miller,Charles Miller,1,1,Lapsed User
+3,Heinz,Wagner,Heinz Wagner,1,0,Power User
+4,Michel,Martin,Michel Martin,0,0,New User
+5,Philippe,Leroy,Philippe Leroy,0,0,New User
+6,Muhammad,Taylor,Muhammad Taylor,0,1,Lapsed User
+7,Jacques,Dubois,Jacques Dubois,1,0,Power User
+8,Wolfgang,Wagner,Wolfgang Wagner,0,0,New User
+9,Heinz,Hoffmann,Heinz Hoffmann,0,0,New User
+10,Jack,Thomas,Jack Thomas,0,0,New User
+11,Thomas,Wilson,Thomas Wilson,1,0,Power User
+12,Peter,Wagner,Peter Wagner,0,1,Lapsed User
+13,Hans,Muller,Hans Muller,1,0,Power User
+14,Harry,Williams,Harry Williams,0,1,Lapsed User
+15,William,Jones,William Jones,0,0,New User
+16,Alain,Bernard,Alain Bernard,0,0,New User
+17,Jean,Martin,Jean Martin,1,0,Power User
+18,Charles,Brown,Charles Brown,1,0,Power User
+19,Michael,Taylor,Michael Taylor,0,0,New User
+20,Charlie,Williams,Charlie Williams,1,0,Power User
+21,Fritz,Meyer,Fritz Meyer,0,1,Lapsed User
+22,Francois,Moreau,Francois Moreau,0,0,New User
+23,John,Davis,John Davis,0,1,Lapsed User
+24,James,Wilson,James Wilson,0,1,Lapsed User
+25,Klaus,Fischer,Klaus Fischer,1,0,Power User
+26,Michel,Bernard,Michel Bernard,0,0,New User
+27,Jack,Smith,Jack Smith,1,0,Power User
+28,William,Jones,William Jones,1,1,Lapsed User
+29,Joseph,Taylor,Joseph Taylor,0,0,New User
+30,Philippe,Bernard,Philippe Bernard,0,0,New User
+31,Joseph,Davis,Joseph Davis,0,0,New User
+32,John,Davis,John Davis,1,0,Power User
+33,Michel,Bernard,Michel Bernard,0,1,Lapsed User
+34,Thomas,Roberts,Thomas Roberts,1,0,Power User
+35,Jacques,Robert,Jacques Robert,0,0,New User
+36,George,Roberts,George Roberts,1,0,Power User
+37,Oliver,Evans,Oliver Evans,0,0,New User
+38,Jean,Martin,Jean Martin,1,0,Power User
+39,Robert,Smith,Robert Smith,0,0,New User
+40,Thomas,Wilson,Thomas Wilson,1,0,Power User
+41,Andre,Durand,Andre Durand,0,0,New User
+42,Noah,Roberts,Noah Roberts,0,0,New User
+43,Klaus,Schneider,Klaus Schneider,1,0,Power User
+44,Andre,Richard,Andre Richard,0,0,New User
+45,Pierre,Martin,Pierre Martin,0,0,New User
+46,Gunter,Wagner,Gunter Wagner,0,0,New User
+47,John,Johnson,John Johnson,0,0,New User
+48,Jacob,Williams,Jacob Williams,0,0,New User
+49,Luc,Petit,Luc Petit,0,0,New User
+50,Thomas,Williams,Thomas Williams,1,1,Lapsed User
+51,Richard,Jones,Richard Jones,0,0,New User
+52,Jacob,Thomas,Jacob Thomas,1,0,Power User
+53,Henri,Martin,Henri Martin,0,1,Lapsed User
+54,Peter,Becker,Peter Becker,1,0,Power User
+55,Heinz,Schmidt,Heinz Schmidt,0,0,New User
+56,Heinz,Schulz,Heinz Schulz,1,0,Power User
+57,Jacob,Brown,Jacob Brown,1,0,Power User
+58,Pierre,Bernard,Pierre Bernard,0,0,New User
+59,Andre,Leroy,Andre Leroy,0,0,New User
+60,Richard,Smith,Richard Smith,1,1,Lapsed User
+61,Michel,Robert,Michel Robert,0,0,New User
+62,Harry,Davies,Harry Davies,0,1,Lapsed User
+63,Wolfgang,Schneider,Wolfgang Schneider,0,0,New User
+64,Michael,Wilson,Michael Wilson,1,0,Power User
+65,James,Miller,James Miller,0,0,New User
+66,Andre,Leroy,Andre Leroy,0,0,New User
+67,Charlie,Davies,Charlie Davies,0,0,New User
+68,Pierre,Bernard,Pierre Bernard,0,0,New User
+69,Charles,Johnson,Charles Johnson,1,0,Power User
+70,Jacob,Williams,Jacob Williams,0,0,New User
+71,Henri,Leroy,Henri Leroy,0,0,New User
+72,Oliver,Brown,Oliver Brown,1,0,Power User
+73,Noah,Williams,Noah Williams,1,0,Power User
+74,Michel,Richard,Michel Richard,0,1,Lapsed User
+75,Oscar,Jones,Oscar Jones,0,0,New User
+76,William,Miller,William Miller,1,0,Power User
+77,Werner,Becker,Werner Becker,1,0,Power User
+78,Luc,Moreau,Luc Moreau,0,0,New User
+79,Charlie,Williams,Charlie Williams,0,0,New User
+80,William,Davis,William Davis,1,1,Lapsed User
+81,Jacob,Roberts,Jacob Roberts,1,0,Power User
+82,Jack,Williams,Jack Williams,1,0,Power User
+83,Pierre,Petit,Pierre Petit,1,0,Power User
+84,Henri,Leroy,Henri Leroy,1,0,Power User
+85,Michael,Johnson,Michael Johnson,1,0,Power User
+86,George,Jones,George Jones,0,0,New User
+87,Oscar,Thomas,Oscar Thomas,1,0,Power User
+88,Uwe,Wagner,Uwe Wagner,0,0,New User
+89,Fritz,Muller,Fritz Muller,1,0,Power User
+90,Thomas,Jones,Thomas Jones,0,0,New User
+91,Noah,Davies,Noah Davies,1,0,Power User
+92,Fritz,Wagner,Fritz Wagner,0,0,New User
+93,James,Miller,James Miller,1,0,Power User
+94,James,Williams,James Williams,0,0,New User
+95,Jacques,Martin,Jacques Martin,0,0,New User
+96,Andre,Robert,Andre Robert,0,0,New User
+97,Thomas,Davies,Thomas Davies,0,0,New User
+98,Jack,Wilson,Jack Wilson,1,0,Power User
+99,John,Wilson,John Wilson,1,0,Power User
+100,Philippe,Leroy,Philippe Leroy,0,0,New User
+101,Noah,Evans,Noah Evans,0,0,New User
+102,Harry,Thomas,Harry Thomas,0,0,New User
+103,Noah,Thomas,Noah Thomas,1,0,Power User
+104,Gunter,Schneider,Gunter Schneider,1,0,Power User
+105,James,Williams,James Williams,0,0,New User
+106,Peter,Meyer,Peter Meyer,0,0,New User
+107,Heinz,Wagner,Heinz Wagner,1,0,Power User
+108,Peter,Weber,Peter Weber,1,0,Power User
+109,William,Williams,William Williams,1,0,Power User
+110,Charlie,Brown,Charlie Brown,0,0,New User
+111,Alain,Richard,Alain Richard,1,0,Power User
+112,Joseph,Davis,Joseph Davis,0,0,New User
+113,Alain,Thomas,Alain Thomas,0,1,Lapsed User
+114,James,Wilson,James Wilson,0,0,New User
+115,Joseph,Smith,Joseph Smith,1,1,Lapsed User
+116,Andre,Richard,Andre Richard,0,0,New User
+117,Werner,Wagner,Werner Wagner,0,0,New User
+118,Jacques,Durand,Jacques Durand,0,1,Lapsed User
+119,John,Williams,John Williams,0,0,New User
+120,Heinz,Becker,Heinz Becker,1,0,Power User
+121,Henri,Richard,Henri Richard,0,0,New User
+122,Thomas,Jones,Thomas Jones,0,0,New User
+123,Philippe,Leroy,Philippe Leroy,1,0,Power User
+124,Pierre,Dubois,Pierre Dubois,0,0,New User
+125,Andre,Petit,Andre Petit,1,1,Lapsed User
+126,Thomas,Taylor,Thomas Taylor,1,0,Power User
+127,Oliver,Brown,Oliver Brown,0,0,New User
+128,Alain,Thomas,Alain Thomas,1,0,Power User
+129,Hans,Schulz,Hans Schulz,1,0,Power User
+130,Andre,Leroy,Andre Leroy,0,0,New User
+131,Jacques,Moreau,Jacques Moreau,0,0,New User
+132,Jack,Wilson,Jack Wilson,0,0,New User
+133,Thomas,Wilson,Thomas Wilson,1,0,Power User
+134,Muhammad,Evans,Muhammad Evans,1,0,Power User
+135,Wolfgang,Weber,Wolfgang Weber,0,0,New User
+136,Klaus,Schneider,Klaus Schneider,1,0,Power User
+137,William,Johnson,William Johnson,0,0,New User
+138,David,Wilson,David Wilson,1,0,Power User
+139,Oliver,Thomas,Oliver Thomas,1,0,Power User
+140,Oliver,Jones,Oliver Jones,1,0,Power User
+141,Jack,Wilson,Jack Wilson,0,1,Lapsed User
+142,Klaus,Schulz,Klaus Schulz,0,0,New User
+143,Michael,Wilson,Michael Wilson,0,1,Lapsed User
+144,Jacques,Richard,Jacques Richard,0,0,New User
+145,David,Taylor,David Taylor,1,0,Power User
+146,Noah,Wilson,Noah Wilson,0,1,Lapsed User
+147,Heinz,Schulz,Heinz Schulz,0,0,New User
+148,Joseph,Taylor,Joseph Taylor,0,0,New User
+149,Werner,Fischer,Werner Fischer,0,0,New User
+150,Jack,Brown,Jack Brown,0,0,New User
+151,Joseph,Wilson,Joseph Wilson,1,0,Power User
+152,Michel,Petit,Michel Petit,1,0,Power User
+153,Oscar,Taylor,Oscar Taylor,0,0,New User
+154,Henri,Petit,Henri Petit,0,0,New User
+155,John,Brown,John Brown,0,0,New User
+156,Uwe,Meyer,Uwe Meyer,0,0,New User
+157,Michel,Bernard,Michel Bernard,0,0,New User
+158,Francois,Dubois,Francois Dubois,0,1,Lapsed User
+159,Hans,Becker,Hans Becker,1,1,Lapsed User
+160,Jacob,Roberts,Jacob Roberts,0,0,New User
+161,Werner,Becker,Werner Becker,0,1,Lapsed User
+162,Jack,Smith,Jack Smith,0,1,Lapsed User
+163,Jacques,Bernard,Jacques Bernard,1,0,Power User
+164,George,Williams,George Williams,1,0,Power User
+165,Philippe,Moreau,Philippe Moreau,0,0,New User
+166,Alain,Thomas,Alain Thomas,0,1,Lapsed User
+167,Fritz,Schulz,Fritz Schulz,0,0,New User
+168,Hans,Schmidt,Hans Schmidt,1,0,Power User
+169,Michel,Petit,Michel Petit,0,1,Lapsed User
+170,Michel,Leroy,Michel Leroy,0,0,New User
+171,Charles,Davis,Charles Davis,0,0,New User
+172,Francois,Moreau,Francois Moreau,0,0,New User
+173,Hans,Fischer,Hans Fischer,0,0,New User
+174,John,Davis,John Davis,1,0,Power User
+175,Gunter,Muller,Gunter Muller,1,0,Power User
+176,Charlie,Taylor,Charlie Taylor,1,0,Power User
+177,David,Wilson,David Wilson,1,0,Power User
+178,Peter,Weber,Peter Weber,0,0,New User
+179,Philippe,Moreau,Philippe Moreau,1,0,Power User
+180,Werner,Meyer,Werner Meyer,1,0,Power User
+181,Harry,Smith,Harry Smith,0,1,Lapsed User
+182,Joseph,Jones,Joseph Jones,1,0,Power User
+183,Luc,Robert,Luc Robert,1,0,Power User
+184,James,Moore,James Moore,0,1,Lapsed User
+185,Noah,Taylor,Noah Taylor,0,0,New User
+186,Alain,Durand,Alain Durand,0,0,New User
+187,Jean,Leroy,Jean Leroy,1,0,Power User
+188,Michel,Petit,Michel Petit,0,0,New User
+189,Werner,Schneider,Werner Schneider,0,1,Lapsed User
+190,Gunter,Wagner,Gunter Wagner,1,0,Power User
+191,Andre,Thomas,Andre Thomas,1,0,Power User
+192,Peter,Becker,Peter Becker,0,0,New User
+193,Alain,Leroy,Alain Leroy,1,1,Lapsed User
+194,Klaus,Schneider,Klaus Schneider,1,0,Power User
+195,Robert,Taylor,Robert Taylor,0,1,Lapsed User
+196,Oscar,Thomas,Oscar Thomas,1,0,Power User
+197,Pierre,Leroy,Pierre Leroy,0,0,New User
+198,Oscar,Williams,Oscar Williams,1,0,Power User
+199,Henri,Durand,Henri Durand,0,0,New User
+200,Luc,Leroy,Luc Leroy,0,0,New User
+201,Alain,Thomas,Alain Thomas,0,0,New User
+202,Charlie,Smith,Charlie Smith,0,0,New User
+203,Henri,Durand,Henri Durand,0,1,Lapsed User
+204,Fritz,Becker,Fritz Becker,0,0,New User
+205,Joseph,Miller,Joseph Miller,1,1,Lapsed User
+206,Jean,Dubois,Jean Dubois,0,0,New User
+207,Uwe,Fischer,Uwe Fischer,0,0,New User
+208,Hans,Becker,Hans Becker,0,0,New User
+209,Richard,Wilson,Richard Wilson,1,0,Power User
+210,James,Wilson,James Wilson,0,0,New User
+211,George,Williams,George Williams,0,1,Lapsed User
+212,David,Moore,David Moore,0,0,New User
+213,Peter,Hoffmann,Peter Hoffmann,1,0,Power User
+214,Hans,Muller,Hans Muller,0,0,New User
+215,Thomas,Jones,Thomas Jones,1,0,Power User
+216,Werner,Schmidt,Werner Schmidt,1,0,Power User
+217,Oscar,Smith,Oscar Smith,0,0,New User
+218,Muhammad,Roberts,Muhammad Roberts,0,0,New User
+219,Harry,Taylor,Harry Taylor,0,0,New User
+220,Hans,Muller,Hans Muller,1,0,Power User
+221,Luc,Petit,Luc Petit,1,1,Lapsed User
+222,Jurgen,Becker,Jurgen Becker,0,0,New User
+223,Michel,Leroy,Michel Leroy,0,0,New User
+224,Muhammad,Thomas,Muhammad Thomas,0,0,New User
+225,Gunter,Becker,Gunter Becker,1,1,Lapsed User
+226,Fritz,Hoffmann,Fritz Hoffmann,0,1,Lapsed User
+227,Jacob,Taylor,Jacob Taylor,0,0,New User
+228,Oscar,Wilson,Oscar Wilson,0,0,New User
+229,Luc,Bernard,Luc Bernard,0,0,New User
+230,Philippe,Leroy,Philippe Leroy,0,1,Lapsed User
+231,Jacques,Moreau,Jacques Moreau,1,0,Power User
+232,David,Taylor,David Taylor,1,0,Power User
+233,Wolfgang,Meyer,Wolfgang Meyer,0,0,New User
+234,Hans,Muller,Hans Muller,1,0,Power User
+235,William,Brown,William Brown,0,0,New User
+236,Oliver,Davies,Oliver Davies,1,0,Power User
+237,David,Williams,David Williams,0,0,New User
+238,Henri,Richard,Henri Richard,0,1,Lapsed User
+239,Peter,Schulz,Peter Schulz,0,0,New User
+240,Andre,Durand,Andre Durand,0,0,New User
+241,Jean,Martin,Jean Martin,1,0,Power User
+242,Muhammad,Wilson,Muhammad Wilson,1,0,Power User
+243,John,Johnson,John Johnson,0,0,New User
+244,Jacques,Thomas,Jacques Thomas,1,0,Power User
+245,George,Smith,George Smith,0,0,New User
+246,Michel,Petit,Michel Petit,0,1,Lapsed User
+247,Werner,Fischer,Werner Fischer,0,0,New User
+248,Oliver,Thomas,Oliver Thomas,0,0,New User
+249,David,Johnson,David Johnson,0,1,Lapsed User
+250,Michael,Brown,Michael Brown,1,0,Power User
+251,Uwe,Weber,Uwe Weber,0,0,New User
+252,John,Davis,John Davis,1,0,Power User
+253,Jacques,Richard,Jacques Richard,0,0,New User
+254,Robert,Taylor,Robert Taylor,1,0,Power User
+255,Henri,Bernard,Henri Bernard,0,0,New User
+256,Jean,Robert,Jean Robert,1,0,Power User
+257,Jean,Leroy,Jean Leroy,0,0,New User
+258,Klaus,Meyer,Klaus Meyer,1,0,Power User
+259,Noah,Wilson,Noah Wilson,0,0,New User
+260,Werner,Schneider,Werner Schneider,0,0,New User
+261,Jacques,Dubois,Jacques Dubois,0,1,Lapsed User
+262,Wolfgang,Schneider,Wolfgang Schneider,1,0,Power User
+263,Uwe,Meyer,Uwe Meyer,0,0,New User
+264,Joseph,Johnson,Joseph Johnson,0,1,Lapsed User
+265,Michel,Durand,Michel Durand,0,1,Lapsed User
+266,Francois,Richard,Francois Richard,0,0,New User
+267,Heinz,Schulz,Heinz Schulz,1,0,Power User
+268,Philippe,Durand,Philippe Durand,0,0,New User
+269,Charles,Taylor,Charles Taylor,0,0,New User
+270,Andre,Robert,Andre Robert,1,0,Power User
+271,Luc,Thomas,Luc Thomas,0,0,New User
+272,Michel,Leroy,Michel Leroy,0,0,New User
+273,Klaus,Muller,Klaus Muller,0,0,New User
+274,Gunter,Becker,Gunter Becker,0,0,New User
+275,Muhammad,Smith,Muhammad Smith,0,0,New User
+276,Fritz,Muller,Fritz Muller,0,0,New User
+277,Philippe,Dubois,Philippe Dubois,0,0,New User
+278,George,Thomas,George Thomas,1,0,Power User
+279,Klaus,Schulz,Klaus Schulz,0,0,New User
+280,Peter,Meyer,Peter Meyer,1,0,Power User
+281,John,Williams,John Williams,1,0,Power User
+282,Jacob,Roberts,Jacob Roberts,1,0,Power User
+283,Luc,Durand,Luc Durand,1,0,Power User
+284,Hans,Fischer,Hans Fischer,1,0,Power User
+285,Jurgen,Becker,Jurgen Becker,1,0,Power User
+286,Hans,Hoffmann,Hans Hoffmann,0,0,New User
+287,Francois,Martin,Francois Martin,1,0,Power User
+288,Michel,Dubois,Michel Dubois,0,0,New User
+289,Joseph,Miller,Joseph Miller,1,0,Power User
+290,Gunter,Fischer,Gunter Fischer,0,1,Lapsed User
+291,Alain,Martin,Alain Martin,1,0,Power User
+292,Oliver,Evans,Oliver Evans,1,0,Power User
+293,Andre,Durand,Andre Durand,1,0,Power User
+294,Gunter,Hoffmann,Gunter Hoffmann,0,0,New User
+295,Henri,Richard,Henri Richard,0,0,New User
+296,Pierre,Moreau,Pierre Moreau,0,0,New User
+297,Francois,Richard,Francois Richard,1,0,Power User
+298,David,Wilson,David Wilson,0,0,New User
+299,Luc,Durand,Luc Durand,0,0,New User
+300,Joseph,Wilson,Joseph Wilson,1,0,Power User
+301,David,Johnson,David Johnson,0,0,New User
+302,Jacques,Dubois,Jacques Dubois,0,0,New User
+303,Klaus,Schmidt,Klaus Schmidt,1,0,Power User
+304,Charlie,Thomas,Charlie Thomas,0,0,New User
+305,Uwe,Schmidt,Uwe Schmidt,0,1,Lapsed User
+306,Jacques,Petit,Jacques Petit,0,0,New User
+307,George,Brown,George Brown,1,0,Power User
+308,Charlie,Davies,Charlie Davies,0,0,New User
+309,James,Brown,James Brown,0,0,New User
+310,Noah,Evans,Noah Evans,0,1,Lapsed User
+311,Jacob,Williams,Jacob Williams,0,0,New User
+312,Oscar,Thomas,Oscar Thomas,0,1,Lapsed User
+313,Oliver,Wilson,Oliver Wilson,1,0,Power User
+314,Jean,Bernard,Jean Bernard,1,0,Power User
+315,Francois,Richard,Francois Richard,0,0,New User
+316,Pierre,Robert,Pierre Robert,1,0,Power User
+317,Henri,Dubois,Henri Dubois,0,0,New User
+318,Jurgen,Meyer,Jurgen Meyer,1,0,Power User
+319,Noah,Thomas,Noah Thomas,1,0,Power User
+320,Wolfgang,Schneider,Wolfgang Schneider,0,0,New User
+321,Henri,Robert,Henri Robert,1,0,Power User
+322,Peter,Muller,Peter Muller,0,0,New User
+323,Jurgen,Schulz,Jurgen Schulz,0,0,New User
+324,Jacques,Petit,Jacques Petit,1,0,Power User
+325,John,Brown,John Brown,0,0,New User
+326,Oscar,Brown,Oscar Brown,0,0,New User
+327,Robert,Wilson,Robert Wilson,0,0,New User
+328,Richard,Williams,Richard Williams,1,0,Power User
+329,Noah,Jones,Noah Jones,0,1,Lapsed User
+330,Pierre,Moreau,Pierre Moreau,0,0,New User
+331,Thomas,Brown,Thomas Brown,0,1,Lapsed User
+332,Noah,Jones,Noah Jones,1,0,Power User
+333,Alain,Martin,Alain Martin,1,0,Power User
+334,Peter,Wagner,Peter Wagner,0,1,Lapsed User
+335,Harry,Thomas,Harry Thomas,0,0,New User
+336,John,Moore,John Moore,1,1,Lapsed User
+337,Uwe,Fischer,Uwe Fischer,0,0,New User
+338,Hans,Becker,Hans Becker,1,1,Lapsed User
+339,John,Moore,John Moore,0,0,New User
+340,Hans,Schmidt,Hans Schmidt,0,0,New User
+341,Charlie,Evans,Charlie Evans,1,0,Power User
+342,Michael,Wilson,Michael Wilson,1,0,Power User
+343,Charles,Jones,Charles Jones,0,0,New User
+344,Jurgen,Schmidt,Jurgen Schmidt,0,0,New User
+345,Noah,Taylor,Noah Taylor,1,0,Power User
+346,Werner,Becker,Werner Becker,0,0,New User
+347,Thomas,Brown,Thomas Brown,1,1,Lapsed User
+348,Jack,Davies,Jack Davies,0,0,New User
+349,Klaus,Weber,Klaus Weber,1,0,Power User
+350,James,Miller,James Miller,0,0,New User
+351,Jacques,Leroy,Jacques Leroy,0,0,New User
+352,Jacques,Durand,Jacques Durand,1,0,Power User
+353,Jurgen,Schulz,Jurgen Schulz,0,0,New User
+354,Jurgen,Schneider,Jurgen Schneider,0,1,Lapsed User
+355,James,Davis,James Davis,1,0,Power User
+356,Fritz,Weber,Fritz Weber,0,0,New User
+357,Muhammad,Smith,Muhammad Smith,0,0,New User
+358,Oliver,Williams,Oliver Williams,1,1,Lapsed User
+359,Jack,Jones,Jack Jones,0,0,New User
+360,Jurgen,Wagner,Jurgen Wagner,1,0,Power User
+361,Werner,Schneider,Werner Schneider,0,0,New User
+362,Jacques,Moreau,Jacques Moreau,0,1,Lapsed User
+363,Peter,Wagner,Peter Wagner,0,0,New User
+364,Philippe,Dubois,Philippe Dubois,0,0,New User
+365,Uwe,Schmidt,Uwe Schmidt,0,0,New User
+366,Oliver,Smith,Oliver Smith,1,0,Power User
+367,Jacques,Martin,Jacques Martin,0,0,New User
+368,Richard,Davis,Richard Davis,0,1,Lapsed User
+369,Hans,Muller,Hans Muller,0,0,New User
+370,Werner,Fischer,Werner Fischer,1,0,Power User
+371,Joseph,Taylor,Joseph Taylor,0,0,New User
+372,James,Smith,James Smith,1,0,Power User
+373,Klaus,Schneider,Klaus Schneider,1,0,Power User
+374,Noah,Smith,Noah Smith,1,0,Power User
+375,Jacques,Richard,Jacques Richard,0,1,Lapsed User
+376,Charlie,Taylor,Charlie Taylor,0,0,New User
+377,Fritz,Becker,Fritz Becker,0,0,New User
+378,Hans,Muller,Hans Muller,0,0,New User
+379,Luc,Petit,Luc Petit,1,0,Power User
+380,Charlie,Smith,Charlie Smith,1,0,Power User
+381,Michael,Wilson,Michael Wilson,1,0,Power User
+382,Uwe,Schulz,Uwe Schulz,1,0,Power User
+383,Jack,Taylor,Jack Taylor,1,0,Power User
+384,Fritz,Wagner,Fritz Wagner,0,0,New User
+385,Richard,Moore,Richard Moore,0,0,New User
+386,Luc,Dubois,Luc Dubois,0,0,New User
+387,Harry,Brown,Harry Brown,1,0,Power User
+388,Alain,Robert,Alain Robert,0,0,New User
+389,Werner,Fischer,Werner Fischer,0,1,Lapsed User
+390,Jurgen,Wagner,Jurgen Wagner,1,1,Lapsed User
+391,Alain,Petit,Alain Petit,1,1,Lapsed User
+392,Jacques,Richard,Jacques Richard,1,0,Power User
+393,Oscar,Williams,Oscar Williams,1,0,Power User
+394,Jacob,Taylor,Jacob Taylor,0,0,New User
+395,Jurgen,Wagner,Jurgen Wagner,1,0,Power User
+396,Oscar,Williams,Oscar Williams,1,0,Power User
+397,Fritz,Wagner,Fritz Wagner,0,0,New User
+398,Thomas,Roberts,Thomas Roberts,0,0,New User
+399,Jacques,Martin,Jacques Martin,1,0,Power User
+400,Muhammad,Davies,Muhammad Davies,1,0,Power User
+401,Charles,Williams,Charles Williams,0,0,New User
+402,Thomas,Roberts,Thomas Roberts,1,0,Power User
+403,Alain,Dubois,Alain Dubois,0,0,New User
+404,Pierre,Leroy,Pierre Leroy,1,1,Lapsed User
+405,Henri,Robert,Henri Robert,0,0,New User
+406,Gunter,Schneider,Gunter Schneider,1,0,Power User
+407,Henri,Petit,Henri Petit,1,1,Lapsed User
+408,Jean,Petit,Jean Petit,0,0,New User
+409,Oscar,Wilson,Oscar Wilson,1,0,Power User
+410,Harry,Taylor,Harry Taylor,0,0,New User
+411,Thomas,Moore,Thomas Moore,0,0,New User
+412,David,Miller,David Miller,0,0,New User
+413,Michel,Thomas,Michel Thomas,1,1,Lapsed User
+414,Robert,Miller,Robert Miller,0,0,New User
+415,Robert,Williams,Robert Williams,1,0,Power User
+416,Muhammad,Wilson,Muhammad Wilson,0,0,New User
+417,Jurgen,Becker,Jurgen Becker,0,0,New User
+418,Joseph,Miller,Joseph Miller,0,0,New User
+419,Thomas,Thomas,Thomas Thomas,1,0,Power User
+420,Thomas,Miller,Thomas Miller,0,0,New User
+421,James,Taylor,James Taylor,0,1,Lapsed User
+422,William,Smith,William Smith,0,1,Lapsed User
+423,Michel,Richard,Michel Richard,0,0,New User
+424,Noah,Roberts,Noah Roberts,1,0,Power User
+425,Pierre,Petit,Pierre Petit,1,0,Power User
+426,Jacob,Roberts,Jacob Roberts,1,0,Power User
+427,Gunter,Weber,Gunter Weber,0,0,New User
+428,Heinz,Meyer,Heinz Meyer,1,0,Power User
+429,Joseph,Davis,Joseph Davis,0,0,New User
+430,Klaus,Meyer,Klaus Meyer,1,1,Lapsed User
+431,John,Johnson,John Johnson,0,0,New User
+432,Hans,Meyer,Hans Meyer,0,0,New User
+433,Philippe,Martin,Philippe Martin,0,0,New User
+434,Jack,Roberts,Jack Roberts,0,0,New User
+435,Andre,Richard,Andre Richard,0,0,New User
+436,Klaus,Becker,Klaus Becker,0,0,New User
+437,David,Jones,David Jones,1,1,Lapsed User
+438,Alain,Durand,Alain Durand,0,0,New User
+439,David,Miller,David Miller,0,0,New User
+440,Werner,Meyer,Werner Meyer,0,1,Lapsed User
+441,Thomas,Williams,Thomas Williams,0,0,New User
+442,Francois,Robert,Francois Robert,0,0,New User
+443,Alain,Petit,Alain Petit,0,1,Lapsed User
+444,Noah,Brown,Noah Brown,1,0,Power User
+445,Fritz,Muller,Fritz Muller,1,0,Power User
+446,Francois,Robert,Francois Robert,0,0,New User
+447,Muhammad,Wilson,Muhammad Wilson,0,0,New User
+448,Henri,Durand,Henri Durand,0,0,New User
+449,Hans,Muller,Hans Muller,1,0,Power User
+450,Jean,Richard,Jean Richard,0,0,New User
+451,Michel,Thomas,Michel Thomas,1,0,Power User
+452,Pierre,Richard,Pierre Richard,1,0,Power User
+453,Michael,Brown,Michael Brown,0,0,New User
+454,David,Williams,David Williams,1,1,Lapsed User
+455,James,Brown,James Brown,0,0,New User
+456,Peter,Schulz,Peter Schulz,0,0,New User
+457,Michael,Taylor,Michael Taylor,1,0,Power User
+458,Werner,Schneider,Werner Schneider,0,0,New User
+459,Hans,Schulz,Hans Schulz,1,0,Power User
+460,Harry,Wilson,Harry Wilson,0,1,Lapsed User
+461,Charles,Miller,Charles Miller,0,0,New User
+462,John,Brown,John Brown,1,0,Power User
+463,Alain,Moreau,Alain Moreau,1,0,Power User
+464,William,Moore,William Moore,0,0,New User
+465,Philippe,Martin,Philippe Martin,0,1,Lapsed User
+466,Alain,Martin,Alain Martin,1,0,Power User
+467,Jacques,Robert,Jacques Robert,0,0,New User
+468,Michael,Taylor,Michael Taylor,0,0,New User
+469,Pierre,Thomas,Pierre Thomas,0,0,New User
+470,David,Smith,David Smith,1,0,Power User
+471,Noah,Evans,Noah Evans,0,0,New User
+472,James,Taylor,James Taylor,0,0,New User
+473,Alain,Durand,Alain Durand,1,1,Lapsed User
+474,Michael,Jones,Michael Jones,1,0,Power User
+475,James,Taylor,James Taylor,0,0,New User
+476,Uwe,Wagner,Uwe Wagner,0,0,New User
+477,Uwe,Hoffmann,Uwe Hoffmann,1,1,Lapsed User
+478,Heinz,Schulz,Heinz Schulz,1,0,Power User
+479,John,Wilson,John Wilson,1,1,Lapsed User
+480,Noah,Davies,Noah Davies,0,0,New User
+481,Hans,Wagner,Hans Wagner,1,0,Power User
+482,Gunter,Muller,Gunter Muller,1,0,Power User
+483,Werner,Schmidt,Werner Schmidt,0,0,New User
+484,David,Williams,David Williams,0,0,New User
+485,Wolfgang,Muller,Wolfgang Muller,0,0,New User
+486,Fritz,Hoffmann,Fritz Hoffmann,0,0,New User
+487,Richard,Wilson,Richard Wilson,0,0,New User
+488,Andre,Petit,Andre Petit,0,0,New User
+489,Noah,Brown,Noah Brown,0,0,New User
+490,Jurgen,Schmidt,Jurgen Schmidt,1,0,Power User
+491,Jack,Williams,Jack Williams,0,0,New User
+492,Jack,Taylor,Jack Taylor,1,0,Power User
+493,David,Miller,David Miller,1,0,Power User
+494,Gunter,Becker,Gunter Becker,1,0,Power User
+495,Francois,Martin,Francois Martin,1,1,Lapsed User
+496,Henri,Robert,Henri Robert,1,0,Power User
+497,Jack,Jones,Jack Jones,1,0,Power User
+498,Oliver,Jones,Oliver Jones,0,0,New User
+499,James,Williams,James Williams,1,1,Lapsed User
+500,James,Brown,James Brown,1,1,Lapsed User
+501,Klaus,Schmidt,Klaus Schmidt,0,0,New User
+502,Thomas,Jones,Thomas Jones,0,0,New User
+503,Jacques,Durand,Jacques Durand,0,0,New User
+504,Jacob,Jones,Jacob Jones,0,0,New User
+505,Peter,Weber,Peter Weber,0,0,New User
+506,Klaus,Schulz,Klaus Schulz,1,0,Power User
+507,Michael,Smith,Michael Smith,0,0,New User
+508,Pierre,Leroy,Pierre Leroy,0,0,New User
+509,Charles,Miller,Charles Miller,0,0,New User
+510,Muhammad,Davies,Muhammad Davies,1,0,Power User
+511,Charles,Johnson,Charles Johnson,1,0,Power User
+512,Thomas,Williams,Thomas Williams,1,0,Power User
+513,Oscar,Evans,Oscar Evans,0,0,New User
+514,Alain,Robert,Alain Robert,1,0,Power User
+515,Francois,Dubois,Francois Dubois,1,0,Power User
+516,Michael,Johnson,Michael Johnson,0,0,New User
+517,Alain,Moreau,Alain Moreau,0,1,Lapsed User
+518,Charles,Taylor,Charles Taylor,1,0,Power User
+519,Andre,Leroy,Andre Leroy,0,0,New User
+520,Muhammad,Wilson,Muhammad Wilson,1,0,Power User
+521,Robert,Davis,Robert Davis,1,0,Power User
+522,Luc,Durand,Luc Durand,1,0,Power User
+523,Pierre,Bernard,Pierre Bernard,0,1,Lapsed User
+524,Jean,Leroy,Jean Leroy,0,0,New User
+525,Heinz,Becker,Heinz Becker,0,0,New User
+526,Werner,Weber,Werner Weber,0,0,New User
+527,Thomas,Jones,Thomas Jones,1,0,Power User
+528,Jean,Petit,Jean Petit,0,0,New User
+529,Andre,Bernard,Andre Bernard,1,0,Power User
+530,Michel,Dubois,Michel Dubois,1,1,Lapsed User
+531,Werner,Becker,Werner Becker,1,0,Power User
+532,George,Davies,George Davies,0,0,New User
+533,Michel,Durand,Michel Durand,0,0,New User
+534,Joseph,Jones,Joseph Jones,1,0,Power User
+535,Hans,Weber,Hans Weber,0,1,Lapsed User
+536,Jurgen,Meyer,Jurgen Meyer,0,0,New User
+537,James,Smith,James Smith,0,0,New User
+538,Jacob,Evans,Jacob Evans,0,0,New User
+539,Peter,Schneider,Peter Schneider,0,0,New User
+540,Peter,Becker,Peter Becker,0,0,New User
+541,Oliver,Roberts,Oliver Roberts,1,0,Power User
+542,Noah,Smith,Noah Smith,1,1,Lapsed User
+543,Alain,Durand,Alain Durand,0,0,New User
+544,Peter,Schulz,Peter Schulz,0,0,New User
+545,Klaus,Schulz,Klaus Schulz,1,0,Power User
+546,Klaus,Wagner,Klaus Wagner,0,0,New User
+547,Klaus,Becker,Klaus Becker,0,0,New User
+548,Jurgen,Hoffmann,Jurgen Hoffmann,0,0,New User
+549,Robert,Jones,Robert Jones,0,0,New User
+550,Robert,Williams,Robert Williams,0,0,New User
+551,Oliver,Evans,Oliver Evans,1,0,Power User
+552,Noah,Thomas,Noah Thomas,0,0,New User
+553,James,Taylor,James Taylor,1,0,Power User
+554,David,Moore,David Moore,1,0,Power User
+555,Joseph,Smith,Joseph Smith,1,0,Power User
+556,Charles,Johnson,Charles Johnson,0,0,New User
+557,Hans,Schmidt,Hans Schmidt,1,0,Power User
+558,William,Taylor,William Taylor,1,0,Power User
+559,Jacob,Brown,Jacob Brown,0,0,New User
+560,Charles,Jones,Charles Jones,0,0,New User
+561,Jacob,Jones,Jacob Jones,0,0,New User
+562,Luc,Durand,Luc Durand,1,0,Power User
+563,Henri,Moreau,Henri Moreau,1,1,Lapsed User
+564,Muhammad,Davies,Muhammad Davies,0,0,New User
+565,Gunter,Meyer,Gunter Meyer,1,0,Power User
+566,Pierre,Durand,Pierre Durand,0,0,New User
+567,John,Miller,John Miller,0,0,New User
+568,Jacques,Richard,Jacques Richard,0,0,New User
+569,Charles,Miller,Charles Miller,0,0,New User
+570,John,Miller,John Miller,0,0,New User
+571,Pierre,Dubois,Pierre Dubois,0,1,Lapsed User
+572,Klaus,Schulz,Klaus Schulz,0,1,Lapsed User
+573,Uwe,Schneider,Uwe Schneider,0,0,New User
+574,Hans,Fischer,Hans Fischer,1,0,Power User
+575,Thomas,Davis,Thomas Davis,1,1,Lapsed User
+576,Andre,Richard,Andre Richard,0,0,New User
+577,Charlie,Williams,Charlie Williams,0,0,New User
+578,Francois,Dubois,Francois Dubois,0,0,New User
+579,Thomas,Taylor,Thomas Taylor,1,0,Power User
+580,Wolfgang,Fischer,Wolfgang Fischer,1,0,Power User
+581,Thomas,Wilson,Thomas Wilson,1,0,Power User
+582,Gunter,Fischer,Gunter Fischer,1,0,Power User
+583,George,Williams,George Williams,1,0,Power User
+584,Muhammad,Brown,Muhammad Brown,0,0,New User
+585,James,Miller,James Miller,0,0,New User
+586,Wolfgang,Hoffmann,Wolfgang Hoffmann,1,1,Lapsed User
+587,Francois,Leroy,Francois Leroy,1,0,Power User
+588,Wolfgang,Schulz,Wolfgang Schulz,0,0,New User
+589,Oliver,Taylor,Oliver Taylor,1,0,Power User
+590,Wolfgang,Becker,Wolfgang Becker,0,0,New User
+591,Gunter,Weber,Gunter Weber,1,1,Lapsed User
+592,Jean,Petit,Jean Petit,1,0,Power User
+593,Heinz,Becker,Heinz Becker,0,0,New User
+594,William,Jones,William Jones,1,0,Power User
+595,Jurgen,Schmidt,Jurgen Schmidt,0,0,New User
+596,Thomas,Miller,Thomas Miller,0,1,Lapsed User
+597,Robert,Brown,Robert Brown,1,0,Power User
+598,Alain,Moreau,Alain Moreau,1,1,Lapsed User
+599,Henri,Martin,Henri Martin,0,0,New User
+600,Peter,Wagner,Peter Wagner,0,0,New User
+601,Oscar,Taylor,Oscar Taylor,0,0,New User
+602,Robert,Jones,Robert Jones,1,1,Lapsed User
+603,Francois,Robert,Francois Robert,0,0,New User
+604,Harry,Brown,Harry Brown,0,0,New User
+605,David,Wilson,David Wilson,1,0,Power User
+606,Francois,Bernard,Francois Bernard,0,0,New User
+607,Wolfgang,Hoffmann,Wolfgang Hoffmann,1,1,Lapsed User
+608,Harry,Evans,Harry Evans,0,0,New User
+609,George,Evans,George Evans,0,0,New User
+610,Jean,Petit,Jean Petit,0,0,New User
+611,Pierre,Durand,Pierre Durand,1,0,Power User
+612,Hans,Wagner,Hans Wagner,1,0,Power User
+613,William,Davis,William Davis,0,0,New User
+614,John,Taylor,John Taylor,0,1,Lapsed User
+615,Andre,Petit,Andre Petit,1,0,Power User
+616,John,Miller,John Miller,0,0,New User
+617,Klaus,Schulz,Klaus Schulz,0,0,New User
+618,Luc,Petit,Luc Petit,1,0,Power User
+619,Michael,Miller,Michael Miller,1,0,Power User
+620,Harry,Wilson,Harry Wilson,1,1,Lapsed User
+621,Alain,Bernard,Alain Bernard,0,1,Lapsed User
+622,George,Taylor,George Taylor,1,0,Power User
+623,Gunter,Weber,Gunter Weber,0,0,New User
+624,Oliver,Williams,Oliver Williams,1,1,Lapsed User
+625,Muhammad,Taylor,Muhammad Taylor,1,0,Power User
+626,Charles,Wilson,Charles Wilson,0,0,New User
+627,Philippe,Dubois,Philippe Dubois,1,0,Power User
+628,Jacob,Davies,Jacob Davies,1,0,Power User
+629,Charlie,Evans,Charlie Evans,1,0,Power User
+630,Oliver,Brown,Oliver Brown,0,0,New User
+631,Luc,Thomas,Luc Thomas,0,0,New User
+632,Klaus,Muller,Klaus Muller,0,1,Lapsed User
+633,Alain,Petit,Alain Petit,1,0,Power User
+634,Oscar,Smith,Oscar Smith,0,1,Lapsed User
+635,Heinz,Wagner,Heinz Wagner,1,0,Power User
+636,Alain,Moreau,Alain Moreau,0,1,Lapsed User
+637,Thomas,Thomas,Thomas Thomas,0,0,New User
+638,Jean,Martin,Jean Martin,0,0,New User
+639,Oliver,Smith,Oliver Smith,0,0,New User
+640,Francois,Robert,Francois Robert,1,0,Power User
+641,Richard,Wilson,Richard Wilson,1,1,Lapsed User
+642,Uwe,Weber,Uwe Weber,0,0,New User
+643,Thomas,Davis,Thomas Davis,0,0,New User
+644,Jacob,Jones,Jacob Jones,1,0,Power User
+645,Jacques,Martin,Jacques Martin,0,0,New User
+646,Luc,Moreau,Luc Moreau,0,0,New User
+647,Francois,Moreau,Francois Moreau,0,0,New User
+648,Robert,Jones,Robert Jones,0,0,New User
+649,Alain,Petit,Alain Petit,0,0,New User
+650,Thomas,Miller,Thomas Miller,1,0,Power User
+651,Wolfgang,Weber,Wolfgang Weber,0,0,New User
+652,Hans,Schulz,Hans Schulz,1,0,Power User
+653,Wolfgang,Hoffmann,Wolfgang Hoffmann,1,0,Power User
+654,William,Brown,William Brown,1,1,Lapsed User
+655,Philippe,Dubois,Philippe Dubois,1,0,Power User
+656,George,Evans,George Evans,1,0,Power User
+657,Thomas,Brown,Thomas Brown,0,0,New User
+658,Muhammad,Jones,Muhammad Jones,0,0,New User
+659,Robert,Brown,Robert Brown,1,1,Lapsed User
+660,Joseph,Miller,Joseph Miller,1,0,Power User
+661,Charles,Wilson,Charles Wilson,0,0,New User
+662,Richard,Jones,Richard Jones,1,1,Lapsed User
+663,Muhammad,Thomas,Muhammad Thomas,1,0,Power User
+664,James,Wilson,James Wilson,1,1,Lapsed User
+665,Robert,Moore,Robert Moore,1,0,Power User
+666,Gunter,Schulz,Gunter Schulz,1,1,Lapsed User
+667,Francois,Petit,Francois Petit,0,0,New User
+668,Henri,Moreau,Henri Moreau,0,0,New User
+669,Hans,Muller,Hans Muller,1,1,Lapsed User
+670,George,Roberts,George Roberts,0,0,New User
+671,Uwe,Hoffmann,Uwe Hoffmann,0,0,New User
+672,Thomas,Wilson,Thomas Wilson,1,0,Power User
+673,Oliver,Wilson,Oliver Wilson,1,0,Power User
+674,David,Davis,David Davis,0,0,New User
+675,Philippe,Dubois,Philippe Dubois,0,0,New User
+676,Uwe,Hoffmann,Uwe Hoffmann,1,0,Power User
+677,Charles,Johnson,Charles Johnson,0,1,Lapsed User
+678,Klaus,Becker,Klaus Becker,0,0,New User
+679,Jurgen,Schmidt,Jurgen Schmidt,1,0,Power User
+680,Gunter,Meyer,Gunter Meyer,0,0,New User
+681,Klaus,Becker,Klaus Becker,0,0,New User
+682,Wolfgang,Schulz,Wolfgang Schulz,1,0,Power User
+683,Gunter,Wagner,Gunter Wagner,1,0,Power User
+684,Michael,Smith,Michael Smith,0,0,New User
+685,Charles,Moore,Charles Moore,1,0,Power User
+686,Noah,Roberts,Noah Roberts,0,1,Lapsed User
+687,Oscar,Brown,Oscar Brown,1,0,Power User
+688,Wolfgang,Hoffmann,Wolfgang Hoffmann,0,0,New User
+689,Jean,Robert,Jean Robert,0,0,New User
+690,Joseph,Smith,Joseph Smith,0,0,New User
+691,Luc,Moreau,Luc Moreau,0,0,New User
+692,Heinz,Hoffmann,Heinz Hoffmann,1,1,Lapsed User
+693,Henri,Moreau,Henri Moreau,0,0,New User
+694,Noah,Wilson,Noah Wilson,0,0,New User
+695,Richard,Wilson,Richard Wilson,1,0,Power User
+696,Luc,Dubois,Luc Dubois,1,0,Power User
+697,Robert,Williams,Robert Williams,1,0,Power User
+698,John,Johnson,John Johnson,1,0,Power User
+699,Jack,Roberts,Jack Roberts,0,1,Lapsed User
+700,Thomas,Jones,Thomas Jones,1,0,Power User
+701,Harry,Smith,Harry Smith,1,0,Power User
+702,Henri,Dubois,Henri Dubois,1,0,Power User
+703,Jack,Brown,Jack Brown,0,0,New User
+704,Charlie,Williams,Charlie Williams,0,0,New User
+705,Harry,Brown,Harry Brown,0,0,New User
+706,Thomas,Taylor,Thomas Taylor,0,0,New User
+707,Jacob,Evans,Jacob Evans,0,0,New User
+708,Uwe,Becker,Uwe Becker,0,0,New User
+709,David,Davis,David Davis,0,0,New User
+710,Gunter,Schneider,Gunter Schneider,0,0,New User
+711,Heinz,Weber,Heinz Weber,1,1,Lapsed User
+712,Jurgen,Schmidt,Jurgen Schmidt,1,0,Power User
+713,Harry,Evans,Harry Evans,0,0,New User
+714,Wolfgang,Hoffmann,Wolfgang Hoffmann,1,0,Power User
+715,Heinz,Schneider,Heinz Schneider,1,0,Power User
+716,William,Wilson,William Wilson,0,0,New User
+717,Muhammad,Davies,Muhammad Davies,1,0,Power User
+718,Charlie,Smith,Charlie Smith,1,0,Power User
+719,Oscar,Davies,Oscar Davies,1,0,Power User
+720,James,Williams,James Williams,1,0,Power User
+721,Michel,Petit,Michel Petit,0,0,New User
+722,Oscar,Wilson,Oscar Wilson,0,0,New User
+723,Charlie,Jones,Charlie Jones,1,0,Power User
+724,Noah,Roberts,Noah Roberts,0,0,New User
+725,Muhammad,Thomas,Muhammad Thomas,0,0,New User
+726,David,Smith,David Smith,1,0,Power User
+727,Hans,Schneider,Hans Schneider,0,1,Lapsed User
+728,Uwe,Weber,Uwe Weber,1,0,Power User
+729,William,Miller,William Miller,0,0,New User
+730,Jacob,Williams,Jacob Williams,1,0,Power User
+731,Thomas,Williams,Thomas Williams,0,0,New User
+732,Charles,Taylor,Charles Taylor,0,0,New User
+733,Robert,Smith,Robert Smith,0,0,New User
+734,Gunter,Muller,Gunter Muller,1,0,Power User
+735,Thomas,Jones,Thomas Jones,1,0,Power User
+736,Peter,Schneider,Peter Schneider,1,0,Power User
+737,Michel,Martin,Michel Martin,0,0,New User
+738,Fritz,Muller,Fritz Muller,1,0,Power User
+739,Michael,Smith,Michael Smith,1,0,Power User
+740,Jacques,Durand,Jacques Durand,0,0,New User
+741,Klaus,Fischer,Klaus Fischer,1,0,Power User
+742,Harry,Evans,Harry Evans,1,0,Power User
+743,Werner,Hoffmann,Werner Hoffmann,1,0,Power User
+744,Joseph,Johnson,Joseph Johnson,1,1,Lapsed User
+745,Charlie,Brown,Charlie Brown,1,0,Power User
+746,Heinz,Schulz,Heinz Schulz,1,0,Power User
+747,John,Jones,John Jones,0,0,New User
+748,Thomas,Smith,Thomas Smith,1,1,Lapsed User
+749,David,Miller,David Miller,1,0,Power User
+750,Robert,Johnson,Robert Johnson,0,1,Lapsed User
+751,John,Jones,John Jones,0,0,New User
+752,Thomas,Taylor,Thomas Taylor,0,0,New User
+753,Henri,Durand,Henri Durand,0,0,New User
+754,Andre,Thomas,Andre Thomas,0,0,New User
+755,Heinz,Meyer,Heinz Meyer,1,0,Power User
+756,Richard,Williams,Richard Williams,1,1,Lapsed User
+757,Noah,Jones,Noah Jones,1,0,Power User
+758,James,Taylor,James Taylor,1,0,Power User
+759,James,Taylor,James Taylor,0,0,New User
+760,Oscar,Wilson,Oscar Wilson,0,0,New User
+761,William,Williams,William Williams,0,0,New User
+762,John,Davis,John Davis,0,0,New User
+763,Werner,Schneider,Werner Schneider,0,0,New User
+764,Henri,Durand,Henri Durand,0,0,New User
+765,Peter,Weber,Peter Weber,0,0,New User
+766,Luc,Martin,Luc Martin,1,0,Power User
+767,Robert,Davis,Robert Davis,1,0,Power User
+768,Richard,Wilson,Richard Wilson,0,1,Lapsed User
+769,Muhammad,Thomas,Muhammad Thomas,0,0,New User
+770,John,Brown,John Brown,1,0,Power User
+771,Jurgen,Weber,Jurgen Weber,0,0,New User
+772,Jurgen,Becker,Jurgen Becker,1,0,Power User
+773,Francois,Moreau,Francois Moreau,0,0,New User
+774,Richard,Moore,Richard Moore,1,0,Power User
+775,Jurgen,Schmidt,Jurgen Schmidt,1,0,Power User
+776,Henri,Martin,Henri Martin,1,0,Power User
+777,Werner,Hoffmann,Werner Hoffmann,0,0,New User
+778,Peter,Schneider,Peter Schneider,0,0,New User
+779,Oliver,Evans,Oliver Evans,1,0,Power User
+780,Gunter,Meyer,Gunter Meyer,0,0,New User
+781,John,Taylor,John Taylor,0,0,New User
+782,Michael,Davis,Michael Davis,1,0,Power User
+783,Uwe,Schmidt,Uwe Schmidt,0,0,New User
+784,Thomas,Evans,Thomas Evans,0,1,Lapsed User
+785,William,Taylor,William Taylor,0,0,New User
+786,Charles,Davis,Charles Davis,1,0,Power User
+787,Michael,Williams,Michael Williams,0,0,New User
+788,Hans,Schulz,Hans Schulz,0,0,New User
+789,Noah,Davies,Noah Davies,0,0,New User
+790,Klaus,Schmidt,Klaus Schmidt,1,0,Power User
+791,Joseph,Jones,Joseph Jones,1,0,Power User
+792,Thomas,Wilson,Thomas Wilson,1,0,Power User
+793,Alain,Petit,Alain Petit,0,0,New User
+794,Michel,Robert,Michel Robert,1,1,Lapsed User
+795,Thomas,Williams,Thomas Williams,0,0,New User
+796,Oscar,Davies,Oscar Davies,0,0,New User
+797,Jacob,Wilson,Jacob Wilson,1,0,Power User
+798,John,Wilson,John Wilson,1,0,Power User
+799,Robert,Wilson,Robert Wilson,0,0,New User
+800,Alain,Durand,Alain Durand,1,1,Lapsed User
+801,David,Davis,David Davis,1,0,Power User
+802,Gunter,Weber,Gunter Weber,1,1,Lapsed User
+803,Jacob,Roberts,Jacob Roberts,1,0,Power User
+804,Charles,Williams,Charles Williams,0,0,New User
+805,William,Jones,William Jones,1,0,Power User
+806,Uwe,Hoffmann,Uwe Hoffmann,1,0,Power User
+807,Werner,Schneider,Werner Schneider,0,0,New User
+808,Philippe,Moreau,Philippe Moreau,0,0,New User
+809,Joseph,Taylor,Joseph Taylor,0,0,New User
+810,Uwe,Hoffmann,Uwe Hoffmann,0,0,New User
+811,Francois,Robert,Francois Robert,0,0,New User
+812,Fritz,Becker,Fritz Becker,1,0,Power User
+813,Andre,Thomas,Andre Thomas,0,1,Lapsed User
+814,Uwe,Meyer,Uwe Meyer,0,0,New User
+815,Muhammad,Williams,Muhammad Williams,0,1,Lapsed User
+816,Andre,Martin,Andre Martin,1,0,Power User
+817,Klaus,Wagner,Klaus Wagner,1,0,Power User
+818,James,Davis,James Davis,0,1,Lapsed User
+819,Jurgen,Fischer,Jurgen Fischer,0,0,New User
+820,Gunter,Hoffmann,Gunter Hoffmann,0,0,New User
+821,Harry,Wilson,Harry Wilson,0,0,New User
+822,Robert,Taylor,Robert Taylor,0,0,New User
+823,Luc,Martin,Luc Martin,1,0,Power User
+824,Jurgen,Weber,Jurgen Weber,1,0,Power User
+825,Philippe,Durand,Philippe Durand,1,0,Power User
+826,Henri,Thomas,Henri Thomas,0,0,New User
+827,Harry,Smith,Harry Smith,0,0,New User
+828,James,Jones,James Jones,1,0,Power User
+829,Oscar,Thomas,Oscar Thomas,0,1,Lapsed User
+830,Uwe,Schulz,Uwe Schulz,1,0,Power User
+831,Alain,Moreau,Alain Moreau,0,0,New User
+832,Jacques,Leroy,Jacques Leroy,0,0,New User
+833,Philippe,Thomas,Philippe Thomas,0,0,New User
+834,Philippe,Petit,Philippe Petit,0,1,Lapsed User
+835,Philippe,Martin,Philippe Martin,1,0,Power User
+836,Fritz,Muller,Fritz Muller,0,0,New User
+837,Thomas,Brown,Thomas Brown,0,0,New User
+838,Oliver,Wilson,Oliver Wilson,0,0,New User
+839,Richard,Davis,Richard Davis,0,0,New User
+840,Joseph,Johnson,Joseph Johnson,1,1,Lapsed User
+841,Thomas,Evans,Thomas Evans,1,0,Power User
+842,Uwe,Hoffmann,Uwe Hoffmann,0,0,New User
+843,Werner,Muller,Werner Muller,1,0,Power User
+844,Henri,Robert,Henri Robert,0,0,New User
+845,Alain,Moreau,Alain Moreau,0,1,Lapsed User
+846,David,Wilson,David Wilson,0,0,New User
+847,Hans,Becker,Hans Becker,0,0,New User
+848,Francois,Richard,Francois Richard,0,0,New User
+849,Gunter,Fischer,Gunter Fischer,0,0,New User
+850,Luc,Moreau,Luc Moreau,0,0,New User
+851,Oliver,Davies,Oliver Davies,1,0,Power User
+852,Werner,Hoffmann,Werner Hoffmann,0,0,New User
+853,Oscar,Roberts,Oscar Roberts,0,0,New User
+854,Richard,Wilson,Richard Wilson,0,1,Lapsed User
+855,Jean,Thomas,Jean Thomas,0,1,Lapsed User
+856,Jacques,Thomas,Jacques Thomas,1,0,Power User
+857,George,Smith,George Smith,0,0,New User
+858,Jack,Thomas,Jack Thomas,1,0,Power User
+859,Jean,Leroy,Jean Leroy,0,0,New User
+860,Jack,Williams,Jack Williams,1,0,Power User
+861,Heinz,Schmidt,Heinz Schmidt,0,0,New User
+862,Thomas,Roberts,Thomas Roberts,0,0,New User
+863,Werner,Muller,Werner Muller,0,0,New User
+864,Jack,Roberts,Jack Roberts,0,1,Lapsed User
+865,Jacob,Roberts,Jacob Roberts,1,0,Power User
+866,Henri,Durand,Henri Durand,0,0,New User
+867,Harry,Wilson,Harry Wilson,0,0,New User
+868,Fritz,Wagner,Fritz Wagner,0,0,New User
+869,Pierre,Dubois,Pierre Dubois,0,0,New User
+870,Henri,Richard,Henri Richard,1,0,Power User
+871,Joseph,Taylor,Joseph Taylor,1,0,Power User
+872,William,Moore,William Moore,0,0,New User
+873,Harry,Williams,Harry Williams,1,0,Power User
+874,Jacques,Petit,Jacques Petit,0,0,New User
+875,Klaus,Wagner,Klaus Wagner,0,0,New User
+876,Francois,Richard,Francois Richard,0,1,Lapsed User
+877,Alain,Moreau,Alain Moreau,0,0,New User
+878,David,Wilson,David Wilson,1,1,Lapsed User
+879,Werner,Weber,Werner Weber,0,0,New User
+880,David,Miller,David Miller,1,0,Power User
+881,Robert,Johnson,Robert Johnson,1,0,Power User
+882,Richard,Brown,Richard Brown,1,0,Power User
+883,Harry,Roberts,Harry Roberts,0,0,New User
+884,Wolfgang,Muller,Wolfgang Muller,0,0,New User
+885,Richard,Brown,Richard Brown,0,0,New User
+886,Richard,Johnson,Richard Johnson,1,0,Power User
+887,David,Williams,David Williams,1,0,Power User
+888,Michael,Wilson,Michael Wilson,0,0,New User
+889,Michel,Petit,Michel Petit,0,0,New User
+890,Noah,Brown,Noah Brown,1,0,Power User
+891,Heinz,Schmidt,Heinz Schmidt,1,0,Power User
+892,Hans,Schmidt,Hans Schmidt,0,0,New User
+893,Werner,Muller,Werner Muller,1,0,Power User
+894,Klaus,Schneider,Klaus Schneider,1,0,Power User
+895,Philippe,Durand,Philippe Durand,0,1,Lapsed User
+896,Muhammad,Roberts,Muhammad Roberts,0,0,New User
+897,Charlie,Smith,Charlie Smith,0,1,Lapsed User
+898,Heinz,Hoffmann,Heinz Hoffmann,0,0,New User
+899,Henri,Leroy,Henri Leroy,0,0,New User
+900,Robert,Smith,Robert Smith,0,0,New User
+901,David,Jones,David Jones,0,1,Lapsed User
+902,Werner,Becker,Werner Becker,1,0,Power User
+903,Oscar,Taylor,Oscar Taylor,0,0,New User
+904,James,Wilson,James Wilson,0,0,New User
+905,George,Roberts,George Roberts,0,1,Lapsed User
+906,Klaus,Fischer,Klaus Fischer,1,1,Lapsed User
+907,Uwe,Becker,Uwe Becker,0,0,New User
+908,Hans,Becker,Hans Becker,1,0,Power User
+909,Heinz,Hoffmann,Heinz Hoffmann,0,0,New User
+910,Klaus,Schmidt,Klaus Schmidt,1,1,Lapsed User
+911,Joseph,Moore,Joseph Moore,0,0,New User
+912,Jacob,Williams,Jacob Williams,0,0,New User
+913,Peter,Hoffmann,Peter Hoffmann,0,0,New User
+914,Wolfgang,Muller,Wolfgang Muller,0,0,New User
+915,Harry,Jones,Harry Jones,0,0,New User
+916,Noah,Davies,Noah Davies,1,0,Power User
+917,Noah,Brown,Noah Brown,1,0,Power User
+918,Richard,Taylor,Richard Taylor,0,0,New User
+919,Charles,Davis,Charles Davis,1,0,Power User
+920,Muhammad,Evans,Muhammad Evans,1,0,Power User
+921,Richard,Williams,Richard Williams,1,0,Power User
+922,Noah,Davies,Noah Davies,0,0,New User
+923,Francois,Richard,Francois Richard,1,0,Power User
+924,Luc,Dubois,Luc Dubois,0,0,New User
+925,Heinz,Muller,Heinz Muller,1,0,Power User
+926,Werner,Meyer,Werner Meyer,1,0,Power User
+927,Francois,Bernard,Francois Bernard,0,0,New User
+928,Harry,Jones,Harry Jones,1,1,Lapsed User
+929,Wolfgang,Meyer,Wolfgang Meyer,1,1,Lapsed User
+930,John,Wilson,John Wilson,0,0,New User
+931,Francois,Bernard,Francois Bernard,0,0,New User
+932,Gunter,Schneider,Gunter Schneider,0,0,New User
+933,Gunter,Schneider,Gunter Schneider,0,0,New User
+934,Charlie,Taylor,Charlie Taylor,1,1,Lapsed User
+935,Jurgen,Becker,Jurgen Becker,1,0,Power User
+936,Fritz,Wagner,Fritz Wagner,0,0,New User
+937,Peter,Fischer,Peter Fischer,1,1,Lapsed User
+938,William,Smith,William Smith,1,0,Power User
+939,Gunter,Hoffmann,Gunter Hoffmann,0,0,New User
+940,Andre,Martin,Andre Martin,0,0,New User
+941,Muhammad,Evans,Muhammad Evans,0,0,New User
+942,Henri,Martin,Henri Martin,0,0,New User
+943,Charlie,Williams,Charlie Williams,1,0,Power User
+944,George,Jones,George Jones,1,0,Power User
+945,Pierre,Durand,Pierre Durand,0,0,New User
+946,Robert,Williams,Robert Williams,0,1,Lapsed User
+947,Noah,Taylor,Noah Taylor,1,0,Power User
+948,Oscar,Davies,Oscar Davies,0,1,Lapsed User
+949,Werner,Schneider,Werner Schneider,0,0,New User
+950,Uwe,Hoffmann,Uwe Hoffmann,0,0,New User
+951,David,Taylor,David Taylor,0,0,New User
+952,David,Brown,David Brown,0,0,New User
+953,Jurgen,Becker,Jurgen Becker,1,0,Power User
+954,Uwe,Becker,Uwe Becker,1,0,Power User
+955,Jacob,Wilson,Jacob Wilson,0,0,New User
+956,Henri,Moreau,Henri Moreau,0,0,New User
+957,Andre,Thomas,Andre Thomas,1,0,Power User
+958,Luc,Leroy,Luc Leroy,0,0,New User
+959,Thomas,Jones,Thomas Jones,0,0,New User
+960,Charlie,Wilson,Charlie Wilson,0,0,New User
+961,Peter,Meyer,Peter Meyer,1,0,Power User
+962,Francois,Leroy,Francois Leroy,1,0,Power User
+963,George,Davies,George Davies,0,0,New User
+964,Michel,Robert,Michel Robert,0,0,New User
+965,James,Miller,James Miller,0,0,New User
+966,David,Johnson,David Johnson,0,0,New User
+967,Muhammad,Taylor,Muhammad Taylor,0,0,New User
+968,Heinz,Schneider,Heinz Schneider,0,0,New User
+969,Charlie,Jones,Charlie Jones,1,1,Lapsed User
+970,Peter,Schulz,Peter Schulz,0,1,Lapsed User
+971,Philippe,Thomas,Philippe Thomas,1,0,Power User
+972,James,Wilson,James Wilson,0,1,Lapsed User
+973,Philippe,Durand,Philippe Durand,0,0,New User
+974,David,Moore,David Moore,0,0,New User
+975,Gunter,Fischer,Gunter Fischer,0,0,New User
+976,Peter,Muller,Peter Muller,0,0,New User
+977,Michel,Durand,Michel Durand,1,0,Power User
+978,Joseph,Davis,Joseph Davis,1,0,Power User
+979,Francois,Robert,Francois Robert,1,0,Power User
+980,Oliver,Williams,Oliver Williams,1,0,Power User
+981,James,Taylor,James Taylor,0,0,New User
+982,Wolfgang,Hoffmann,Wolfgang Hoffmann,1,0,Power User
+983,Michael,Jones,Michael Jones,0,1,Lapsed User
+984,Henri,Bernard,Henri Bernard,0,0,New User
+985,Andre,Thomas,Andre Thomas,1,1,Lapsed User
+986,Richard,Williams,Richard Williams,1,0,Power User
+987,Henri,Bernard,Henri Bernard,1,0,Power User
+988,Richard,Smith,Richard Smith,0,0,New User
+989,Muhammad,Thomas,Muhammad Thomas,0,0,New User
+990,Michael,Davis,Michael Davis,0,0,New User
+991,Harry,Davies,Harry Davies,0,1,Lapsed User
+992,Jacob,Roberts,Jacob Roberts,0,0,New User
+993,Jean,Petit,Jean Petit,1,0,Power User
+994,Thomas,Davis,Thomas Davis,0,0,New User
+995,Thomas,Wilson,Thomas Wilson,0,1,Lapsed User
+996,Werner,Fischer,Werner Fischer,0,0,New User
+997,Oliver,Brown,Oliver Brown,0,0,New User
+998,Heinz,Fischer,Heinz Fischer,0,0,New User
+999,Charlie,Wilson,Charlie Wilson,0,0,New User
+1000,Charles,Williams,Charles Williams,1,0,Power User
